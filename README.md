@@ -4,7 +4,7 @@ This repository contains the transcripts and the screenshots of the Coursera cou
 
 Feel free to star the repo and contribute by editing the Word version of the documents.
 
-##Download Coursera courses
+## Download Coursera courses
 
 This is a quick user guide to download a Coursera course. Source from `coursera-dl` https://github.com/coursera-dl/coursera-dl
 
