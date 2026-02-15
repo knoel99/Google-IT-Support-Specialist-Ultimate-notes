@@ -1,62 +1,33 @@
 # Table des matières
-
-[1 Introduction to networking [2](#introduction-to-networking)](#introduction-to-networking)
-
-[2 The network layer [2](#the-network-layer)](#the-network-layer)
-
-[3 Transport layer and application layer [2](#transport-layer-and-application-layer)](#transport-layer-and-application-layer)
-
-[4 Networking services [2](#networking-services)](#networking-services)
-
-[5 Connecting to the internet [2](#connecting-to-the-internet)](#connecting-to-the-internet)
-
-[6 Troubleshooting and the future of networking [2](#troubleshooting-and-the-future-of-networking)](#troubleshooting-and-the-future-of-networking)
-
-[6.1 Introduction to troubleshooting and the future of networking [2](#introduction-to-troubleshooting-and-the-future-of-networking)](#introduction-to-troubleshooting-and-the-future-of-networking)
-
-[6.1.1 Introduction to troubleshooting and the future of networking [2](#introduction-to-troubleshooting-and-the-future-of-networking-1)](#introduction-to-troubleshooting-and-the-future-of-networking-1)
-
-[6.2 Verifying connectivity [3](#verifying-connectivity)](#verifying-connectivity)
-
-[6.2.1 Ping internet control message protocol [3](#ping-internet-control-message-protocol)](#ping-internet-control-message-protocol)
-
-[6.2.2 Traceroute [10](#traceroute)](#traceroute)
-
-[6.2.3 Testing port connectivity [13](#testing-port-connectivity)](#testing-port-connectivity)
-
-[6.3 Digging into DNS [16](#digging-into-dns)](#digging-into-dns)
-
-[6.3.1 Name resolution tools [16](#name-resolution-tools)](#name-resolution-tools)
-
-[6.3.2 Public DNS servers [19](#public-dns-servers)](#public-dns-servers)
-
-[6.3.3 DNS registration and expiration [22](#dns-registration-and-expiration)](#dns-registration-and-expiration)
-
-[6.3.4 Host file [22](#host-file)](#host-file)
-
-[6.4 The cloud [25](#the-cloud)](#the-cloud)
-
-[6.4.1 What is the cloud [25](#what-is-the-cloud)](#what-is-the-cloud)
-
-[6.4.2 Everything as a service [31](#everything-as-a-service)](#everything-as-a-service)
-
-[6.4.3 Cloud storage [33](#cloud-storage)](#cloud-storage)
-
-[6.5 IPV6 [35](#ipv6)](#ipv6)
-
-[6.5.1 IPV6 addressing and subnetting [35](#ipv6-addressing-and-subnetting)](#ipv6-addressing-and-subnetting)
-
-[6.5.2 IPV6 headers [41](#ipv6-headers)](#ipv6-headers)
-
-[6.5.3 IPV6 and IPV4 harmony [44](#ipv6-and-ipv4-harmony)](#ipv6-and-ipv4-harmony)
-
-[7 Course wrap-up [47](#course-wrap-up)](#course-wrap-up)
-
-[7.1 Course wrap-up [47](#course-wrap-up-1)](#course-wrap-up-1)
-
-[7.2 Alex career path [47](#alex-career-path)](#alex-career-path)
-
-[7.3 Congratulations [48](#congratulations)](#congratulations)
+- [1 Introduction to networking](#introduction-to-networking)
+- [2 The network layer](#the-network-layer)
+- [3 Transport layer and application layer](#transport-layer-and-application-layer)
+- [4 Networking services](#networking-services)
+- [5 Connecting to the internet](#connecting-to-the-internet)
+- [6 Troubleshooting and the future of networking](#troubleshooting-and-the-future-of-networking)
+  - [6.1 Introduction to troubleshooting and the future of networking](#introduction-to-troubleshooting-and-the-future-of-networking)
+    - [6.1.1 Introduction to troubleshooting and the future of networking](#introduction-to-troubleshooting-and-the-future-of-networking-1)
+  - [6.2 Verifying connectivity](#verifying-connectivity)
+    - [6.2.1 Ping internet control message protocol](#ping-internet-control-message-protocol)
+    - [6.2.2 Traceroute](#traceroute)
+    - [6.2.3 Testing port connectivity](#testing-port-connectivity)
+  - [6.3 Digging into DNS](#digging-into-dns)
+    - [6.3.1 Name resolution tools](#name-resolution-tools)
+    - [6.3.2 Public DNS servers](#public-dns-servers)
+    - [6.3.3 DNS registration and expiration](#dns-registration-and-expiration)
+    - [6.3.4 Host file](#host-file)
+  - [6.4 The cloud](#the-cloud)
+    - [6.4.1 What is the cloud](#what-is-the-cloud)
+    - [6.4.2 Everything as a service](#everything-as-a-service)
+    - [6.4.3 Cloud storage](#cloud-storage)
+  - [6.5 IPV6](#ipv6)
+    - [6.5.1 IPV6 addressing and subnetting](#ipv6-addressing-and-subnetting)
+    - [6.5.2 IPV6 headers](#ipv6-headers)
+    - [6.5.3 IPV6 and IPV4 harmony](#ipv6-and-ipv4-harmony)
+- [7 Course wrap-up](#course-wrap-up)
+  - [7.1 Course wrap-up](#course-wrap-up-1)
+  - [7.2 Alex career path](#alex-career-path)
+  - [7.3 Congratulations](#congratulations)
 
 # Introduction to networking
 

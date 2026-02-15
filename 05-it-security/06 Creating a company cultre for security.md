@@ -1,52 +1,28 @@
 # Table des matières
-
-[1 Understanding IT security threat [2](#understanding-it-security-threat)](#understanding-it-security-threat)
-
-[2 Pelcgbybtl cryptology [2](#pelcgbybtl-cryptology)](#pelcgbybtl-cryptology)
-
-[3 AAA security not roadside assistance [2](#aaa-security-not-roadside-assistance)](#aaa-security-not-roadside-assistance)
-
-[4 Securing your network [2](#securing-your-network)](#securing-your-network)
-
-[5 Defense in depth [2](#defense-in-depth)](#defense-in-depth)
-
-[6 Creating a company culture for security [2](#creating-a-company-culture-for-security)](#creating-a-company-culture-for-security)
-
-[6.1 Risk in the workplace [2](#risk-in-the-workplace)](#risk-in-the-workplace)
-
-[6.1.1 Security goals [2](#security-goals)](#security-goals)
-
-[6.1.2 Measuring and assessing risk [3](#measuring-and-assessing-risk)](#measuring-and-assessing-risk)
-
-[6.1.3 Privacy policy [4](#privacy-policy)](#privacy-policy)
-
-[6.2 Users [5](#users)](#users)
-
-[6.2.1 User habits [5](#user-habits)](#user-habits)
-
-[6.2.2 Third party security [6](#third-party-security)](#third-party-security)
-
-[6.2.3 Security training [7](#security-training)](#security-training)
-
-[6.2.4 Alex grit story [7](#alex-grit-story)](#alex-grit-story)
-
-[6.3 Incident handling [8](#incident-handling)](#incident-handling)
-
-[6.3.1 Incident reporting and analysis [8](#incident-reporting-and-analysis)](#incident-reporting-and-analysis)
-
-[6.3.2 Incident response and recovery [9](#incident-response-and-recovery)](#incident-response-and-recovery)
-
-[6.3.3 Amir interview [10](#amir-interview)](#amir-interview)
-
-[6.3.4 Ari interview [11](#ari-interview)](#ari-interview)
-
-[6.4 Graded assessments [11](#graded-assessments)](#graded-assessments)
-
-[6.4.1 Final assessment [11](#final-assessment)](#final-assessment)
-
-[6.5 Course wrap up [11](#course-wrap-up)](#course-wrap-up)
-
-[6.5.1 Congratulations [11](#congratulations)](#congratulations)
+- [1 Understanding IT security threat](#understanding-it-security-threat)
+- [2 Pelcgbybtl cryptology](#pelcgbybtl-cryptology)
+- [3 AAA security not roadside assistance](#aaa-security-not-roadside-assistance)
+- [4 Securing your network](#securing-your-network)
+- [5 Defense in depth](#defense-in-depth)
+- [6 Creating a company culture for security](#creating-a-company-culture-for-security)
+  - [6.1 Risk in the workplace](#risk-in-the-workplace)
+    - [6.1.1 Security goals](#security-goals)
+    - [6.1.2 Measuring and assessing risk](#measuring-and-assessing-risk)
+    - [6.1.3 Privacy policy](#privacy-policy)
+  - [6.2 Users](#users)
+    - [6.2.1 User habits](#user-habits)
+    - [6.2.2 Third party security](#third-party-security)
+    - [6.2.3 Security training](#security-training)
+    - [6.2.4 Alex grit story](#alex-grit-story)
+  - [6.3 Incident handling](#incident-handling)
+    - [6.3.1 Incident reporting and analysis](#incident-reporting-and-analysis)
+    - [6.3.2 Incident response and recovery](#incident-response-and-recovery)
+    - [6.3.3 Amir interview](#amir-interview)
+    - [6.3.4 Ari interview](#ari-interview)
+  - [6.4 Graded assessments](#graded-assessments)
+    - [6.4.1 Final assessment](#final-assessment)
+  - [6.5 Course wrap up](#course-wrap-up)
+    - [6.5.1 Congratulations](#congratulations)
 
 # Understanding IT security threat
 

@@ -1,46 +1,25 @@
 # Table des matières
-
-[1 Navigating the system [2](#navigating-the-system)](#navigating-the-system)
-
-[2 Users and permissions [2](#users-and-permissions)](#users-and-permissions)
-
-[3 Package and software management [2](#package-and-software-management)](#package-and-software-management)
-
-[4 File systems [2](#file-systems)](#file-systems)
-
-[4.1 File system types [2](#file-system-types)](#file-system-types)
-
-[4.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[4.1.2 Review of filesystems [2](#review-of-filesystems)](#review-of-filesystems)
-
-[4.1.3 Disk anatomy [4](#disk-anatomy)](#disk-anatomy)
-
-[4.1.4 Windows disk partitioning and formatting a filesystem [7](#windows-disk-partitioning-and-formatting-a-filesystem)](#windows-disk-partitioning-and-formatting-a-filesystem)
-
-[4.1.5 Windows mounting and unmounting a filesystem [14](#windows-mounting-and-unmounting-a-filesystem)](#windows-mounting-and-unmounting-a-filesystem)
-
-[4.1.6 Linux disk partitioning and formatting a filesystem [14](#linux-disk-partitioning-and-formatting-a-filesystem)](#linux-disk-partitioning-and-formatting-a-filesystem)
-
-[4.1.7 Linux mounting and unmounting a filesystem [21](#linux-mounting-and-unmounting-a-filesystem)](#linux-mounting-and-unmounting-a-filesystem)
-
-[4.1.8 Windows swap [25](#windows-swap)](#windows-swap)
-
-[4.1.9 Linux swap [28](#linux-swap)](#linux-swap)
-
-[4.1.10 Windows files [31](#windows-files)](#windows-files)
-
-[4.1.11 Linux files [37](#linux-files)](#linux-files)
-
-[4.1.12 Windows disk usage [39](#windows-disk-usage)](#windows-disk-usage)
-
-[4.1.13 Linux disk usage [43](#linux-disk-usage)](#linux-disk-usage)
-
-[4.1.14 Windows filesystem repair [45](#windows-filesystem-repair)](#windows-filesystem-repair)
-
-[4.1.15 Linux filesystem repair [49](#linux-filesystem-repair)](#linux-filesystem-repair)
-
-[4.1.16 Ben passion [50](#ben-passion)](#ben-passion)
+- [1 Navigating the system](#navigating-the-system)
+- [2 Users and permissions](#users-and-permissions)
+- [3 Package and software management](#package-and-software-management)
+- [4 File systems](#file-systems)
+  - [4.1 File system types](#file-system-types)
+    - [4.1.1 Module introduction](#module-introduction)
+    - [4.1.2 Review of filesystems](#review-of-filesystems)
+    - [4.1.3 Disk anatomy](#disk-anatomy)
+    - [4.1.4 Windows disk partitioning and formatting a filesystem](#windows-disk-partitioning-and-formatting-a-filesystem)
+    - [4.1.5 Windows mounting and unmounting a filesystem](#windows-mounting-and-unmounting-a-filesystem)
+    - [4.1.6 Linux disk partitioning and formatting a filesystem](#linux-disk-partitioning-and-formatting-a-filesystem)
+    - [4.1.7 Linux mounting and unmounting a filesystem](#linux-mounting-and-unmounting-a-filesystem)
+    - [4.1.8 Windows swap](#windows-swap)
+    - [4.1.9 Linux swap](#linux-swap)
+    - [4.1.10 Windows files](#windows-files)
+    - [4.1.11 Linux files](#linux-files)
+    - [4.1.12 Windows disk usage](#windows-disk-usage)
+    - [4.1.13 Linux disk usage](#linux-disk-usage)
+    - [4.1.14 Windows filesystem repair](#windows-filesystem-repair)
+    - [4.1.15 Linux filesystem repair](#linux-filesystem-repair)
+    - [4.1.16 Ben passion](#ben-passion)
 
 # Navigating the system
 

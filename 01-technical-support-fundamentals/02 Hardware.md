@@ -1,34 +1,19 @@
 # Table des matières
-
-[1 Introduction to IT [2](#introduction-to-it)](#introduction-to-it)
-
-[2 Hardware [2](#hardware)](#hardware)
-
-[2.1 The modern computer [2](#the-modern-computer)](#the-modern-computer)
-
-[2.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[2.1.2 Programs and hardware [2](#programs-and-hardware)](#programs-and-hardware)
-
-[2.2 Components [8](#components)](#components)
-
-[2.2.1 CPU [8](#cpu)](#cpu)
-
-[2.2.2 RAM [12](#ram)](#ram)
-
-[2.2.3 Motherboard [15](#motherboard)](#motherboard)
-
-[2.2.4 Storage [20](#storage)](#storage)
-
-[2.2.5 Power supplies [24](#power-supplies)](#power-supplies)
-
-[2.2.6 Peripherals [27](#peripherals)](#peripherals)
-
-[2.3 Starting it up [31](#starting-it-up)](#starting-it-up)
-
-[2.3.1 BIOS [31](#bios)](#bios)
-
-[2.3.2 Putting all together [35](#putting-all-together)](#putting-all-together)
+- [1 Introduction to IT](#introduction-to-it)
+- [2 Hardware](#hardware)
+  - [2.1 The modern computer](#the-modern-computer)
+    - [2.1.1 Module introduction](#module-introduction)
+    - [2.1.2 Programs and hardware](#programs-and-hardware)
+  - [2.2 Components](#components)
+    - [2.2.1 CPU](#cpu)
+    - [2.2.2 RAM](#ram)
+    - [2.2.3 Motherboard](#motherboard)
+    - [2.2.4 Storage](#storage)
+    - [2.2.5 Power supplies](#power-supplies)
+    - [2.2.6 Peripherals](#peripherals)
+  - [2.3 Starting it up](#starting-it-up)
+    - [2.3.1 BIOS](#bios)
+    - [2.3.2 Putting all together](#putting-all-together)
 
 # Introduction to IT
 

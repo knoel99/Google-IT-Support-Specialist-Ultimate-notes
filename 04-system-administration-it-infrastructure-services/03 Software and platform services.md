@@ -1,52 +1,28 @@
 # Table des matières
-
-[1 Introduction to system administration and IT infrastructure services [2](#introduction-to-system-administration-and-it-infrastructure-services)](#introduction-to-system-administration-and-it-infrastructure-services)
-
-[2 Network and infrastructure services [2](#network-and-infrastructure-services)](#network-and-infrastructure-services)
-
-[3 Software and platform services [2](#software-and-platform-services)](#software-and-platform-services)
-
-[3.1 Software services [2](#software-services)](#software-services)
-
-[3.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[3.1.2 Configuring communication services [2](#configuring-communication-services)](#configuring-communication-services)
-
-[3.1.3 Configuring email services [2](#configuring-email-services)](#configuring-email-services)
-
-[3.1.4 Configuring user productivity services [3](#configuring-user-productivity-services)](#configuring-user-productivity-services)
-
-[3.1.5 Configuring security services [4](#configuring-security-services)](#configuring-security-services)
-
-[3.1.6 Heather managing self doubt [4](#heather-managing-self-doubt)](#heather-managing-self-doubt)
-
-[3.2 File services [5](#file-services)](#file-services)
-
-[3.2.1 What are file services [5](#what-are-file-services)](#what-are-file-services)
-
-[3.2.2 Network file storage [5](#network-file-storage)](#network-file-storage)
-
-[3.3 Print services [6](#print-services)](#print-services)
-
-[3.3.1 Configuring print services [6](#configuring-print-services)](#configuring-print-services)
-
-[3.4 Platform services [6](#platform-services)](#platform-services)
-
-[3.4.1 Web servers revisited [6](#web-servers-revisited)](#web-servers-revisited)
-
-[3.4.2 What is a database server [7](#what-is-a-database-server)](#what-is-a-database-server)
-
-[3.5 Troubleshooting platform services [7](#troubleshooting-platform-services)](#troubleshooting-platform-services)
-
-[3.5.1 Is the website down [7](#is-the-website-down)](#is-the-website-down)
-
-[3.6 Managing cloud resources [8](#managing-cloud-resources)](#managing-cloud-resources)
-
-[3.6.1 Cloud concepts [8](#cloud-concepts)](#cloud-concepts)
-
-[3.6.2 Typical cloud infrastructure setups [9](#typical-cloud-infrastructure-setups)](#typical-cloud-infrastructure-setups)
-
-[3.6.3 When and how to choose cloud [9](#when-and-how-to-choose-cloud)](#when-and-how-to-choose-cloud)
+- [1 Introduction to system administration and IT infrastructure services](#introduction-to-system-administration-and-it-infrastructure-services)
+- [2 Network and infrastructure services](#network-and-infrastructure-services)
+- [3 Software and platform services](#software-and-platform-services)
+  - [3.1 Software services](#software-services)
+    - [3.1.1 Module introduction](#module-introduction)
+    - [3.1.2 Configuring communication services](#configuring-communication-services)
+    - [3.1.3 Configuring email services](#configuring-email-services)
+    - [3.1.4 Configuring user productivity services](#configuring-user-productivity-services)
+    - [3.1.5 Configuring security services](#configuring-security-services)
+    - [3.1.6 Heather managing self doubt](#heather-managing-self-doubt)
+  - [3.2 File services](#file-services)
+    - [3.2.1 What are file services](#what-are-file-services)
+    - [3.2.2 Network file storage](#network-file-storage)
+  - [3.3 Print services](#print-services)
+    - [3.3.1 Configuring print services](#configuring-print-services)
+  - [3.4 Platform services](#platform-services)
+    - [3.4.1 Web servers revisited](#web-servers-revisited)
+    - [3.4.2 What is a database server](#what-is-a-database-server)
+  - [3.5 Troubleshooting platform services](#troubleshooting-platform-services)
+    - [3.5.1 Is the website down](#is-the-website-down)
+  - [3.6 Managing cloud resources](#managing-cloud-resources)
+    - [3.6.1 Cloud concepts](#cloud-concepts)
+    - [3.6.2 Typical cloud infrastructure setups](#typical-cloud-infrastructure-setups)
+    - [3.6.3 When and how to choose cloud](#when-and-how-to-choose-cloud)
 
 # Introduction to system administration and IT infrastructure services
 

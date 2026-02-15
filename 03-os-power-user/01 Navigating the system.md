@@ -1,74 +1,39 @@
 # Table des matières
-
-[1 Navigating the system [3](#navigating-the-system)](#navigating-the-system)
-
-[1.1 Introduction to Operating systems and becoming a power user [3](#introduction-to-operating-systems-and-becoming-a-power-user)](#introduction-to-operating-systems-and-becoming-a-power-user)
-
-[1.1.1 Course introduction [3](#course-introduction)](#course-introduction)
-
-[1.2 Basic commands [4](#basic-commands)](#basic-commands)
-
-[1.2.1 Lesson overview practice tips [4](#lesson-overview-practice-tips)](#lesson-overview-practice-tips)
-
-[1.2.2 List directories in a GUI [7](#list-directories-in-a-gui)](#list-directories-in-a-gui)
-
-[1.2.3 Windows list directories in a CLI [13](#windows-list-directories-in-a-cli)](#windows-list-directories-in-a-cli)
-
-[1.2.4 Linux list directories [19](#linux-list-directories)](#linux-list-directories)
-
-[1.2.5 Windows changing directories in the GUI [28](#windows-changing-directories-in-the-gui)](#windows-changing-directories-in-the-gui)
-
-[1.2.6 Windows changing directories in the CLI [29](#windows-changing-directories-in-the-cli)](#windows-changing-directories-in-the-cli)
-
-[1.2.7 Linux changing directories in bash [33](#linux-changing-directories-in-bash)](#linux-changing-directories-in-bash)
-
-[1.2.8 Windows make directories in the GUI-CLI [35](#windows-make-directories-in-the-gui-cli)](#windows-make-directories-in-the-gui-cli)
-
-[1.2.9 Linux make directories in bash [38](#linux-make-directories-in-bash)](#linux-make-directories-in-bash)
-
-[1.2.10 Windows command history [40](#windows-command-history)](#windows-command-history)
-
-[1.2.11 Linux command history [43](#linux-command-history)](#linux-command-history)
-
-[1.2.12 Windows copying files and directories [44](#windows-copying-files-and-directories)](#windows-copying-files-and-directories)
-
-[1.2.13 Linux copying files and directories [49](#linux-copying-files-and-directories)](#linux-copying-files-and-directories)
-
-[1.2.14 Windows moving and renaming files and directories [51](#windows-moving-and-renaming-files-and-directories)](#windows-moving-and-renaming-files-and-directories)
-
-[1.2.15 Linux moving and renaming files and directories [53](#linux-moving-and-renaming-files-and-directories)](#linux-moving-and-renaming-files-and-directories)
-
-[1.2.16 Windows removing files and directories [55](#windows-removing-files-and-directories)](#windows-removing-files-and-directories)
-
-[1.2.17 Linux removing files and directories [59](#linux-removing-files-and-directories)](#linux-removing-files-and-directories)
-
-[1.2.18 Cindy why OS is important [61](#cindy-why-os-is-important)](#cindy-why-os-is-important)
-
-[1.3 File and text manipulation [61](#file-and-text-manipulation)](#file-and-text-manipulation)
-
-[1.3.1 Windows Display file content [61](#windows-display-file-content)](#windows-display-file-content)
-
-[1.3.2 Linux Display file content [66](#linux-display-file-content)](#linux-display-file-content)
-
-[1.3.3 Windows Modifying text files [70](#windows-modifying-text-files)](#windows-modifying-text-files)
-
-[1.3.4 Linux Modifying text files [72](#linux-modifying-text-files)](#linux-modifying-text-files)
-
-[1.3.5 Windows Powershell [74](#windows-powershell)](#windows-powershell)
-
-[1.3.6 Windows Searching within files [78](#windows-searching-within-files)](#windows-searching-within-files)
-
-[1.3.7 Windows Searching within directories [82](#windows-searching-within-directories)](#windows-searching-within-directories)
-
-[1.3.8 Linux Searching within files [84](#linux-searching-within-files)](#linux-searching-within-files)
-
-[1.3.9 Windows Input output and the pipeline [85](#windows-input-output-and-the-pipeline)](#windows-input-output-and-the-pipeline)
-
-[1.3.10 Linux Input output and the pipeline [92](#linux-input-output-and-the-pipeline)](#linux-input-output-and-the-pipeline)
-
-[1.3.11 Windows and Linux Advanced navigation [95](#windows-and-linux-advanced-navigation)](#windows-and-linux-advanced-navigation)
-
-[1.3.12 Ben first tech job [96](#ben-first-tech-job)](#ben-first-tech-job)
+- [1 Navigating the system](#navigating-the-system)
+  - [1.1 Introduction to Operating systems and becoming a power user](#introduction-to-operating-systems-and-becoming-a-power-user)
+    - [1.1.1 Course introduction](#course-introduction)
+  - [1.2 Basic commands](#basic-commands)
+    - [1.2.1 Lesson overview practice tips](#lesson-overview-practice-tips)
+    - [1.2.2 List directories in a GUI](#list-directories-in-a-gui)
+    - [1.2.3 Windows list directories in a CLI](#windows-list-directories-in-a-cli)
+    - [1.2.4 Linux list directories](#linux-list-directories)
+    - [1.2.5 Windows changing directories in the GUI](#windows-changing-directories-in-the-gui)
+    - [1.2.6 Windows changing directories in the CLI](#windows-changing-directories-in-the-cli)
+    - [1.2.7 Linux changing directories in bash](#linux-changing-directories-in-bash)
+    - [1.2.8 Windows make directories in the GUI-CLI](#windows-make-directories-in-the-gui-cli)
+    - [1.2.9 Linux make directories in bash](#linux-make-directories-in-bash)
+    - [1.2.10 Windows command history](#windows-command-history)
+    - [1.2.11 Linux command history](#linux-command-history)
+    - [1.2.12 Windows copying files and directories](#windows-copying-files-and-directories)
+    - [1.2.13 Linux copying files and directories](#linux-copying-files-and-directories)
+    - [1.2.14 Windows moving and renaming files and directories](#windows-moving-and-renaming-files-and-directories)
+    - [1.2.15 Linux moving and renaming files and directories](#linux-moving-and-renaming-files-and-directories)
+    - [1.2.16 Windows removing files and directories](#windows-removing-files-and-directories)
+    - [1.2.17 Linux removing files and directories](#linux-removing-files-and-directories)
+    - [1.2.18 Cindy why OS is important](#cindy-why-os-is-important)
+  - [1.3 File and text manipulation](#file-and-text-manipulation)
+    - [1.3.1 Windows Display file content](#windows-display-file-content)
+    - [1.3.2 Linux Display file content](#linux-display-file-content)
+    - [1.3.3 Windows Modifying text files](#windows-modifying-text-files)
+    - [1.3.4 Linux Modifying text files](#linux-modifying-text-files)
+    - [1.3.5 Windows Powershell](#windows-powershell)
+    - [1.3.6 Windows Searching within files](#windows-searching-within-files)
+    - [1.3.7 Windows Searching within directories](#windows-searching-within-directories)
+    - [1.3.8 Linux Searching within files](#linux-searching-within-files)
+    - [1.3.9 Windows Input output and the pipeline](#windows-input-output-and-the-pipeline)
+    - [1.3.10 Linux Input output and the pipeline](#linux-input-output-and-the-pipeline)
+    - [1.3.11 Windows and Linux Advanced navigation](#windows-and-linux-advanced-navigation)
+    - [1.3.12 Ben first tech job](#ben-first-tech-job)
 
 # Navigating the system
 

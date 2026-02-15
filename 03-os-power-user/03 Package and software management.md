@@ -1,48 +1,26 @@
 # Table des matières
-
-[1 Navigating the system [2](#navigating-the-system)](#navigating-the-system)
-
-[2 Users and permissions [2](#users-and-permissions)](#users-and-permissions)
-
-[3 Package and software management [2](#package-and-software-management)](#package-and-software-management)
-
-[3.1 Software distribution [2](#software-distribution)](#software-distribution)
-
-[3.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[3.1.2 Windows software packages [2](#windows-software-packages)](#windows-software-packages)
-
-[3.1.3 Linux software packages [5](#linux-software-packages)](#linux-software-packages)
-
-[3.1.4 Windows archives [8](#windows-archives)](#windows-archives)
-
-[3.1.5 Linux archives [11](#linux-archives)](#linux-archives)
-
-[3.1.6 Windows package dependencies [12](#windows-package-dependencies)](#windows-package-dependencies)
-
-[3.1.7 Linux package dependencies [19](#linux-package-dependencies)](#linux-package-dependencies)
-
-[3.2 Package managers [21](#package-managers)](#package-managers)
-
-[3.2.1 Windows package manager [21](#windows-package-manager)](#windows-package-manager)
-
-[3.2.2 Linux package manager-apt [24](#linux-package-manager-apt)](#linux-package-manager-apt)
-
-[3.3 What’s happening in the background [28](#whats-happening-in-the-background)](#whats-happening-in-the-background)
-
-[3.3.1 Windows underneath the hood [28](#windows-underneath-the-hood)](#windows-underneath-the-hood)
-
-[3.3.2 Linux underneath the hood [30](#linux-underneath-the-hood)](#linux-underneath-the-hood)
-
-[3.4 Device software management [31](#device-software-management)](#device-software-management)
-
-[3.4.1 Windows-devices-and-drivers [31](#windows-devices-and-drivers)](#windows-devices-and-drivers)
-
-[3.4.2 Linux-devices-and-drivers [33](#linux-devices-and-drivers)](#linux-devices-and-drivers)
-
-[3.4.3 Window-operating-system-updates [37](#window-operating-system-updates)](#window-operating-system-updates)
-
-[3.4.4 Linux-operating-system-updates [40](#linux-operating-system-updates)](#linux-operating-system-updates)
+- [1 Navigating the system](#navigating-the-system)
+- [2 Users and permissions](#users-and-permissions)
+- [3 Package and software management](#package-and-software-management)
+  - [3.1 Software distribution](#software-distribution)
+    - [3.1.1 Module introduction](#module-introduction)
+    - [3.1.2 Windows software packages](#windows-software-packages)
+    - [3.1.3 Linux software packages](#linux-software-packages)
+    - [3.1.4 Windows archives](#windows-archives)
+    - [3.1.5 Linux archives](#linux-archives)
+    - [3.1.6 Windows package dependencies](#windows-package-dependencies)
+    - [3.1.7 Linux package dependencies](#linux-package-dependencies)
+  - [3.2 Package managers](#package-managers)
+    - [3.2.1 Windows package manager](#windows-package-manager)
+    - [3.2.2 Linux package manager-apt](#linux-package-manager-apt)
+  - [3.3 What’s happening in the background](#whats-happening-in-the-background)
+    - [3.3.1 Windows underneath the hood](#windows-underneath-the-hood)
+    - [3.3.2 Linux underneath the hood](#linux-underneath-the-hood)
+  - [3.4 Device software management](#device-software-management)
+    - [3.4.1 Windows-devices-and-drivers](#windows-devices-and-drivers)
+    - [3.4.2 Linux-devices-and-drivers](#linux-devices-and-drivers)
+    - [3.4.3 Window-operating-system-updates](#window-operating-system-updates)
+    - [3.4.4 Linux-operating-system-updates](#linux-operating-system-updates)
 
 # Navigating the system
 

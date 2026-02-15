@@ -1,42 +1,23 @@
 # Table des matières
-
-[1 Understanding IT security threat [2](#understanding-it-security-threat)](#understanding-it-security-threat)
-
-[2 Pelcgbybtl cryptology [2](#pelcgbybtl-cryptology)](#pelcgbybtl-cryptology)
-
-[2.1 Symmetric-encryption [2](#symmetric-encryption)](#symmetric-encryption)
-
-[2.1.1 Cryptography [2](#cryptography)](#cryptography)
-
-[2.1.2 Symmetric-cryptography [3](#symmetric-cryptography)](#symmetric-cryptography)
-
-[2.1.3 Symmetric-encryption-algorithms [4](#symmetric-encryption-algorithms)](#symmetric-encryption-algorithms)
-
-[2.1.4 Rob-what-a-security-engineer-does [6](#rob-what-a-security-engineer-does)](#rob-what-a-security-engineer-does)
-
-[2.2 Public-key-or-asymmetric-encryption [6](#public-key-or-asymmetric-encryption)](#public-key-or-asymmetric-encryption)
-
-[2.2.1 Asymmetric-cryptography [6](#asymmetric-cryptography)](#asymmetric-cryptography)
-
-[2.2.2 Asymmetric-encryption-algorithms [8](#asymmetric-encryption-algorithms)](#asymmetric-encryption-algorithms)
-
-[2.3 Hashing [9](#hashing)](#hashing)
-
-[2.3.1 Hashing [9](#hashing-1)](#hashing-1)
-
-[2.3.2 Hashing-algorithms [9](#hashing-algorithms)](#hashing-algorithms)
-
-[2.3.3 Hashing-algorithms-continued [10](#hashing-algorithms-continued)](#hashing-algorithms-continued)
-
-[2.4 Cryptography-applications [11](#cryptography-applications)](#cryptography-applications)
-
-[2.4.1 Public-key-infrastructure [11](#public-key-infrastructure)](#public-key-infrastructure)
-
-[2.4.2 Cryptography-in-action [13](#cryptography-in-action)](#cryptography-in-action)
-
-[2.4.3 Securing-network-traffic [14](#securing-network-traffic)](#securing-network-traffic)
-
-[2.4.4 Cryptographic-hardware [16](#cryptographic-hardware)](#cryptographic-hardware)
+- [1 Understanding IT security threat](#understanding-it-security-threat)
+- [2 Pelcgbybtl cryptology](#pelcgbybtl-cryptology)
+  - [2.1 Symmetric-encryption](#symmetric-encryption)
+    - [2.1.1 Cryptography](#cryptography)
+    - [2.1.2 Symmetric-cryptography](#symmetric-cryptography)
+    - [2.1.3 Symmetric-encryption-algorithms](#symmetric-encryption-algorithms)
+    - [2.1.4 Rob-what-a-security-engineer-does](#rob-what-a-security-engineer-does)
+  - [2.2 Public-key-or-asymmetric-encryption](#public-key-or-asymmetric-encryption)
+    - [2.2.1 Asymmetric-cryptography](#asymmetric-cryptography)
+    - [2.2.2 Asymmetric-encryption-algorithms](#asymmetric-encryption-algorithms)
+  - [2.3 Hashing](#hashing)
+    - [2.3.1 Hashing](#hashing-1)
+    - [2.3.2 Hashing-algorithms](#hashing-algorithms)
+    - [2.3.3 Hashing-algorithms-continued](#hashing-algorithms-continued)
+  - [2.4 Cryptography-applications](#cryptography-applications)
+    - [2.4.1 Public-key-infrastructure](#public-key-infrastructure)
+    - [2.4.2 Cryptography-in-action](#cryptography-in-action)
+    - [2.4.3 Securing-network-traffic](#securing-network-traffic)
+    - [2.4.4 Cryptographic-hardware](#cryptographic-hardware)
 
 # Understanding IT security threat
 

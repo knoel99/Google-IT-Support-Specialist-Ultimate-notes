@@ -1,34 +1,19 @@
 # Table des matières
-
-[1 Introduction to networking [1](#introduction-to-networking)](#introduction-to-networking)
-
-[2 The network layer [1](#the-network-layer)](#the-network-layer)
-
-[3 Transport layer and application layer [1](#transport-layer-and-application-layer)](#transport-layer-and-application-layer)
-
-[3.1 Introduction to the transport and application layers [1](#introduction-to-the-transport-and-application-layers)](#introduction-to-the-transport-and-application-layers)
-
-[3.2 The transport layer [2](#the-transport-layer)](#the-transport-layer)
-
-[3.2.1 The transport layer [2](#the-transport-layer-1)](#the-transport-layer-1)
-
-[3.2.2 Dissection of a TCP segment [6](#dissection-of-a-tcp-segment)](#dissection-of-a-tcp-segment)
-
-[3.2.3 TCP control flags and the three way handshake [13](#tcp-control-flags-and-the-three-way-handshake)](#tcp-control-flags-and-the-three-way-handshake)
-
-[3.2.4 TCP socket states [19](#tcp-socket-states)](#tcp-socket-states)
-
-[3.2.5 Connection oriented and connectionless oriented protocols [22](#connection-oriented-and-connectionless-oriented-protocols)](#connection-oriented-and-connectionless-oriented-protocols)
-
-[3.2.6 Firewalls [24](#firewalls)](#firewalls)
-
-[3.3 The application layer [26](#the-application-layer)](#the-application-layer)
-
-[3.3.1 The application layer [26](#the-application-layer-1)](#the-application-layer-1)
-
-[3.3.2 The application layer and the OSI model [29](#the-application-layer-and-the-osi-model)](#the-application-layer-and-the-osi-model)
-
-[3.3.3 All layers working in unison [32](#all-layers-working-in-unison)](#all-layers-working-in-unison)
+- [1 Introduction to networking](#introduction-to-networking)
+- [2 The network layer](#the-network-layer)
+- [3 Transport layer and application layer](#transport-layer-and-application-layer)
+  - [3.1 Introduction to the transport and application layers](#introduction-to-the-transport-and-application-layers)
+  - [3.2 The transport layer](#the-transport-layer)
+    - [3.2.1 The transport layer](#the-transport-layer-1)
+    - [3.2.2 Dissection of a TCP segment](#dissection-of-a-tcp-segment)
+    - [3.2.3 TCP control flags and the three way handshake](#tcp-control-flags-and-the-three-way-handshake)
+    - [3.2.4 TCP socket states](#tcp-socket-states)
+    - [3.2.5 Connection oriented and connectionless oriented protocols](#connection-oriented-and-connectionless-oriented-protocols)
+    - [3.2.6 Firewalls](#firewalls)
+  - [3.3 The application layer](#the-application-layer)
+    - [3.3.1 The application layer](#the-application-layer-1)
+    - [3.3.2 The application layer and the OSI model](#the-application-layer-and-the-osi-model)
+    - [3.3.3 All layers working in unison](#all-layers-working-in-unison)
 
 # Introduction to networking
 

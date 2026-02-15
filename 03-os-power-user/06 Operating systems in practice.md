@@ -1,56 +1,30 @@
 # Table des matières
-
-[1 Navigating the system [2](#navigating-the-system)](#navigating-the-system)
-
-[2 Users and permissions [2](#users-and-permissions)](#users-and-permissions)
-
-[3 Package and software management [2](#package-and-software-management)](#package-and-software-management)
-
-[4 File systems [2](#file-systems)](#file-systems)
-
-[5 Process management [2](#process-management)](#process-management)
-
-[6 Operating systems in practice [2](#operating-systems-in-practice)](#operating-systems-in-practice)
-
-[6.1 Remote access [2](#remote-access)](#remote-access)
-
-[6.1.1 Introduction [2](#introduction)](#introduction)
-
-[6.1.2 Remote connection and ssh [2](#remote-connection-and-ssh)](#remote-connection-and-ssh)
-
-[6.1.3 Remote connections on windows [7](#remote-connections-on-windows)](#remote-connections-on-windows)
-
-[6.1.4 Remote connection file transfer [12](#remote-connection-file-transfer)](#remote-connection-file-transfer)
-
-[6.1.5 Remote connection file transfer on windows [14](#remote-connection-file-transfer-on-windows)](#remote-connection-file-transfer-on-windows)
-
-[6.2 Virtualization [17](#virtualization)](#virtualization)
-
-[6.2.1 Virtual machines [17](#virtual-machines)](#virtual-machines)
-
-[6.3 Logging [22](#logging)](#logging)
-
-[6.3.1 System monitoring [22](#system-monitoring)](#system-monitoring)
-
-[6.3.2 The windows event viewer [23](#the-windows-event-viewer)](#the-windows-event-viewer)
-
-[6.3.3 Linux logs [27](#linux-logs)](#linux-logs)
-
-[6.3.4 Working with logs [34](#working-with-logs)](#working-with-logs)
-
-[6.4 Operating system deployment [36](#operating-system-deployment)](#operating-system-deployment)
-
-[6.4.1 Imaging software [36](#imaging-software)](#imaging-software)
-
-[6.4.2 Operating systems deployment methods [37](#operating-systems-deployment-methods)](#operating-systems-deployment-methods)
-
-[6.5 Course wrap up [40](#course-wrap-up)](#course-wrap-up)
-
-[6.5.1 Course wrap up [40](#course-wrap-up-1)](#course-wrap-up-1)
-
-[6.5.2 Heather early career advice [41](#heather-early-career-advice)](#heather-early-career-advice)
-
-[6.5.3 Congratulations [41](#congratulations)](#congratulations)
+- [1 Navigating the system](#navigating-the-system)
+- [2 Users and permissions](#users-and-permissions)
+- [3 Package and software management](#package-and-software-management)
+- [4 File systems](#file-systems)
+- [5 Process management](#process-management)
+- [6 Operating systems in practice](#operating-systems-in-practice)
+  - [6.1 Remote access](#remote-access)
+    - [6.1.1 Introduction](#introduction)
+    - [6.1.2 Remote connection and ssh](#remote-connection-and-ssh)
+    - [6.1.3 Remote connections on windows](#remote-connections-on-windows)
+    - [6.1.4 Remote connection file transfer](#remote-connection-file-transfer)
+    - [6.1.5 Remote connection file transfer on windows](#remote-connection-file-transfer-on-windows)
+  - [6.2 Virtualization](#virtualization)
+    - [6.2.1 Virtual machines](#virtual-machines)
+  - [6.3 Logging](#logging)
+    - [6.3.1 System monitoring](#system-monitoring)
+    - [6.3.2 The windows event viewer](#the-windows-event-viewer)
+    - [6.3.3 Linux logs](#linux-logs)
+    - [6.3.4 Working with logs](#working-with-logs)
+  - [6.4 Operating system deployment](#operating-system-deployment)
+    - [6.4.1 Imaging software](#imaging-software)
+    - [6.4.2 Operating systems deployment methods](#operating-systems-deployment-methods)
+  - [6.5 Course wrap up](#course-wrap-up)
+    - [6.5.1 Course wrap up](#course-wrap-up-1)
+    - [6.5.2 Heather early career advice](#heather-early-career-advice)
+    - [6.5.3 Congratulations](#congratulations)
 
 # Navigating the system
 

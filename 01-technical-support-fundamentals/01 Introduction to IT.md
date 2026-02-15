@@ -1,42 +1,23 @@
 # Table des matières
-
-[1 Introduction to it [2](#introduction-to-it)](#introduction-to-it)
-
-[1.1 Introduction to IT support [2](#introduction-to-it-support)](#introduction-to-it-support)
-
-[1.1.1 Program introduction [2](#program-introduction)](#program-introduction)
-
-[1.1.2 What is IT [3](#what-is-it)](#what-is-it)
-
-[1.1.3 What does an IT support specialist do [6](#what-does-an-it-support-specialist-do)](#what-does-an-it-support-specialist-do)
-
-[1.1.4 Course introduction [6](#course-introduction)](#course-introduction)
-
-[1.2 History of computing [7](#history-of-computing)](#history-of-computing)
-
-[1.2.1 From abacus to analytical engine [7](#from-abacus-to-analytical-engine)](#from-abacus-to-analytical-engine)
-
-[1.2.2 The path to modern computers [8](#the-path-to-modern-computers)](#the-path-to-modern-computers)
-
-[1.2.3 Kevin career [10](#kevin-career)](#kevin-career)
-
-[1.3 Digital logic [10](#digital-logic)](#digital-logic)
-
-[1.3.1 Computer language [10](#computer-language)](#computer-language)
-
-[1.3.2 Character encoding [11](#character-encoding)](#character-encoding)
-
-[1.3.3 Binary [11](#binary)](#binary)
-
-[1.3.4 How to count in binary [12](#how-to-count-in-binary)](#how-to-count-in-binary)
-
-[1.4 Computer architecture layer [12](#computer-architecture-layer)](#computer-architecture-layer)
-
-[1.4.1 Abstraction [12](#abstraction)](#abstraction)
-
-[1.4.2 Computer architecture overview [13](#computer-architecture-overview)](#computer-architecture-overview)
-
-[1.4.3 Kevin advice [14](#kevin-advice)](#kevin-advice)
+- [1 Introduction to it](#introduction-to-it)
+  - [1.1 Introduction to IT support](#introduction-to-it-support)
+    - [1.1.1 Program introduction](#program-introduction)
+    - [1.1.2 What is IT](#what-is-it)
+    - [1.1.3 What does an IT support specialist do](#what-does-an-it-support-specialist-do)
+    - [1.1.4 Course introduction](#course-introduction)
+  - [1.2 History of computing](#history-of-computing)
+    - [1.2.1 From abacus to analytical engine](#from-abacus-to-analytical-engine)
+    - [1.2.2 The path to modern computers](#the-path-to-modern-computers)
+    - [1.2.3 Kevin career](#kevin-career)
+  - [1.3 Digital logic](#digital-logic)
+    - [1.3.1 Computer language](#computer-language)
+    - [1.3.2 Character encoding](#character-encoding)
+    - [1.3.3 Binary](#binary)
+    - [1.3.4 How to count in binary](#how-to-count-in-binary)
+  - [1.4 Computer architecture layer](#computer-architecture-layer)
+    - [1.4.1 Abstraction](#abstraction)
+    - [1.4.2 Computer architecture overview](#computer-architecture-overview)
+    - [1.4.3 Kevin advice](#kevin-advice)
 
 # Introduction to IT
 

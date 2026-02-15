@@ -1,46 +1,25 @@
 # Table des matières
-
-[1 Navigating the system [2](#navigating-the-system)](#navigating-the-system)
-
-[2 Users and permissions [2](#users-and-permissions)](#users-and-permissions)
-
-[3 Package and software management [2](#package-and-software-management)](#package-and-software-management)
-
-[4 File systems [2](#file-systems)](#file-systems)
-
-[5 Process management [2](#process-management)](#process-management)
-
-[5.1 Life of a process [2](#life-of-a-process)](#life-of-a-process)
-
-[5.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[5.1.2 Programs vs processes revisited [2](#programs-vs-processes-revisited)](#programs-vs-processes-revisited)
-
-[5.1.3 Windows process creation and termination [4](#windows-process-creation-and-termination)](#windows-process-creation-and-termination)
-
-[5.1.4 Linux process creation and termination [8](#linux-process-creation-and-termination)](#linux-process-creation-and-termination)
-
-[5.1.5 Jess passions [9](#jess-passions)](#jess-passions)
-
-[5.2 Managing processes [10](#managing-processes)](#managing-processes)
-
-[5.2.1 Windows reading process information [10](#windows-reading-process-information)](#windows-reading-process-information)
-
-[5.2.2 Linux reading process information [13](#linux-reading-process-information)](#linux-reading-process-information)
-
-[5.2.3 Windows signals [20](#windows-signals)](#windows-signals)
-
-[5.2.4 Linux signals [23](#linux-signals)](#linux-signals)
-
-[5.2.5 Windows managing processes [23](#windows-managing-processes)](#windows-managing-processes)
-
-[5.2.6 Linux managing processes [28](#linux-managing-processes)](#linux-managing-processes)
-
-[5.3 Process utilization [35](#process-utilization)](#process-utilization)
-
-[5.3.1 Windows resource monitoring [35](#windows-resource-monitoring)](#windows-resource-monitoring)
-
-[5.3.2 Linux resource monitoring [39](#linux-resource-monitoring)](#linux-resource-monitoring)
+- [1 Navigating the system](#navigating-the-system)
+- [2 Users and permissions](#users-and-permissions)
+- [3 Package and software management](#package-and-software-management)
+- [4 File systems](#file-systems)
+- [5 Process management](#process-management)
+  - [5.1 Life of a process](#life-of-a-process)
+    - [5.1.1 Module introduction](#module-introduction)
+    - [5.1.2 Programs vs processes revisited](#programs-vs-processes-revisited)
+    - [5.1.3 Windows process creation and termination](#windows-process-creation-and-termination)
+    - [5.1.4 Linux process creation and termination](#linux-process-creation-and-termination)
+    - [5.1.5 Jess passions](#jess-passions)
+  - [5.2 Managing processes](#managing-processes)
+    - [5.2.1 Windows reading process information](#windows-reading-process-information)
+    - [5.2.2 Linux reading process information](#linux-reading-process-information)
+    - [5.2.3 Windows signals](#windows-signals)
+    - [5.2.4 Linux signals](#linux-signals)
+    - [5.2.5 Windows managing processes](#windows-managing-processes)
+    - [5.2.6 Linux managing processes](#linux-managing-processes)
+  - [5.3 Process utilization](#process-utilization)
+    - [5.3.1 Windows resource monitoring](#windows-resource-monitoring)
+    - [5.3.2 Linux resource monitoring](#linux-resource-monitoring)
 
 # Navigating the system
 

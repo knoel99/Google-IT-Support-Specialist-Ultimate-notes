@@ -1,34 +1,19 @@
 # Table des matières
-
-[1 Understanding IT security threat [2](#understanding-it-security-threat)](#understanding-it-security-threat)
-
-[1.1 Introduction to it security [2](#introduction-to-it-security)](#introduction-to-it-security)
-
-[1.1.1 Course introduction [2](#course-introduction)](#course-introduction)
-
-[1.2 Malicious software [3](#malicious-software)](#malicious-software)
-
-[1.2.1 The cia triad [3](#the-cia-triad)](#the-cia-triad)
-
-[1.2.2 Essential security terms [3](#essential-security-terms)](#essential-security-terms)
-
-[1.2.3 Malicious software [4](#malicious-software-1)](#malicious-software-1)
-
-[1.2.4 Malware continued [5](#malware-continued)](#malware-continued)
-
-[1.3 Network attacks [6](#network-attacks)](#network-attacks)
-
-[1.3.1 Network attacks [6](#network-attacks-1)](#network-attacks-1)
-
-[1.3.2 Denial of service [6](#denial-of-service)](#denial-of-service)
-
-[1.4 Other attacks [7](#other-attacks)](#other-attacks)
-
-[1.4.1 Client-side attacks [7](#client-side-attacks)](#client-side-attacks)
-
-[1.4.2 Password attacks [8](#password-attacks)](#password-attacks)
-
-[1.4.3 Deceptive attacks [8](#deceptive-attacks)](#deceptive-attacks)
+- [1 Understanding IT security threat](#understanding-it-security-threat)
+  - [1.1 Introduction to it security](#introduction-to-it-security)
+    - [1.1.1 Course introduction](#course-introduction)
+  - [1.2 Malicious software](#malicious-software)
+    - [1.2.1 The cia triad](#the-cia-triad)
+    - [1.2.2 Essential security terms](#essential-security-terms)
+    - [1.2.3 Malicious software](#malicious-software-1)
+    - [1.2.4 Malware continued](#malware-continued)
+  - [1.3 Network attacks](#network-attacks)
+    - [1.3.1 Network attacks](#network-attacks-1)
+    - [1.3.2 Denial of service](#denial-of-service)
+  - [1.4 Other attacks](#other-attacks)
+    - [1.4.1 Client-side attacks](#client-side-attacks)
+    - [1.4.2 Password attacks](#password-attacks)
+    - [1.4.3 Deceptive attacks](#deceptive-attacks)
 
 # Understanding IT security threat
 

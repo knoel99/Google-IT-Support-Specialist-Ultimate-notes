@@ -1,66 +1,35 @@
 # Table des matières
-
-[1 Introduction to networking [2](#introduction-to-networking)](#introduction-to-networking)
-
-[2 The network layer [2](#the-network-layer)](#the-network-layer)
-
-[3 Transport layer and application layer [2](#transport-layer-and-application-layer)](#transport-layer-and-application-layer)
-
-[4 Network services [2](#network-services)](#network-services)
-
-[4.1 Introduction to network services [2](#introduction-to-network-services)](#introduction-to-network-services)
-
-[4.2 Name resolution [2](#name-resolution)](#name-resolution)
-
-[4.2.1 Why do we need DNS [2](#why-do-we-need-dns)](#why-do-we-need-dns)
-
-[4.2.2 The many steps of name resolution [6](#the-many-steps-of-name-resolution)](#the-many-steps-of-name-resolution)
-
-[4.2.3 DNS and UDP [12](#dns-and-udp)](#dns-and-udp)
-
-[4.3 Name resolution in practice [17](#name-resolution-in-practice)](#name-resolution-in-practice)
-
-[4.3.1 Resource record type [17](#resource-record-type)](#resource-record-type)
-
-[4.3.2 Anatomy of a domain name [22](#anatomy-of-a-domain-name)](#anatomy-of-a-domain-name)
-
-[4.3.3 DNS zones [27](#dns-zones)](#dns-zones)
-
-[4.4 Dynamic host configuration protocol [30](#dynamic-host-configuration-protocol)](#dynamic-host-configuration-protocol)
-
-[4.4.1 Overview of DHCP [30](#overview-of-dhcp)](#overview-of-dhcp)
-
-[4.4.2 DHCP in action [34](#dhcp-in-action)](#dhcp-in-action)
-
-[4.5 Network address translation [37](#network-address-translation)](#network-address-translation)
-
-[4.5.1 Basics of NAT [37](#basics-of-nat)](#basics-of-nat)
-
-[4.5.2 NAT and the transport layer [39](#nat-and-the-transport-layer)](#nat-and-the-transport-layer)
-
-[4.5.3 NAT non routable address space and the limits of IPV4 [41](#nat-non-routable-address-space-and-the-limits-of-ipv4)](#nat-non-routable-address-space-and-the-limits-of-ipv4)
-
-[4.6 VNP and proxies [43](#vnp-and-proxies)](#vnp-and-proxies)
-
-[4.6.1 Virtual private network [43](#virtual-private-network)](#virtual-private-network)
-
-[4.6.2 Proxy services [46](#proxy-services)](#proxy-services)
-
-[5 Connecting to the internet [48](#connecting-to-the-internet)](#connecting-to-the-internet)
-
-[5.1 Introduction to connecting to the internet [48](#introduction-to-connecting-to-the-internet)](#introduction-to-connecting-to-the-internet)
-
-[5.2 Pots and dial up [49](#pots-and-dial-up)](#pots-and-dial-up)
-
-[5.2.1 Dial up modems and point to point protocols [49](#dial-up-modems-and-point-to-point-protocols)](#dial-up-modems-and-point-to-point-protocols)
-
-[5.3 Broadband connections [49](#broadband-connections)](#broadband-connections)
-
-[5.3.1 What is broadband [49](#what-is-broadband)](#what-is-broadband)
-
-[5.3.2 T-carriers technologies [50](#t-carriers-technologies)](#t-carriers-technologies)
-
-[5.3.3 Digital subscriber lines [50](#digital-subscriber-lines)](#digital-subscriber-lines)
+- [1 Introduction to networking](#introduction-to-networking)
+- [2 The network layer](#the-network-layer)
+- [3 Transport layer and application layer](#transport-layer-and-application-layer)
+- [4 Network services](#network-services)
+  - [4.1 Introduction to network services](#introduction-to-network-services)
+  - [4.2 Name resolution](#name-resolution)
+    - [4.2.1 Why do we need DNS](#why-do-we-need-dns)
+    - [4.2.2 The many steps of name resolution](#the-many-steps-of-name-resolution)
+    - [4.2.3 DNS and UDP](#dns-and-udp)
+  - [4.3 Name resolution in practice](#name-resolution-in-practice)
+    - [4.3.1 Resource record type](#resource-record-type)
+    - [4.3.2 Anatomy of a domain name](#anatomy-of-a-domain-name)
+    - [4.3.3 DNS zones](#dns-zones)
+  - [4.4 Dynamic host configuration protocol](#dynamic-host-configuration-protocol)
+    - [4.4.1 Overview of DHCP](#overview-of-dhcp)
+    - [4.4.2 DHCP in action](#dhcp-in-action)
+  - [4.5 Network address translation](#network-address-translation)
+    - [4.5.1 Basics of NAT](#basics-of-nat)
+    - [4.5.2 NAT and the transport layer](#nat-and-the-transport-layer)
+    - [4.5.3 NAT non routable address space and the limits of IPV4](#nat-non-routable-address-space-and-the-limits-of-ipv4)
+  - [4.6 VNP and proxies](#vnp-and-proxies)
+    - [4.6.1 Virtual private network](#virtual-private-network)
+    - [4.6.2 Proxy services](#proxy-services)
+- [5 Connecting to the internet](#connecting-to-the-internet)
+  - [5.1 Introduction to connecting to the internet](#introduction-to-connecting-to-the-internet)
+  - [5.2 Pots and dial up](#pots-and-dial-up)
+    - [5.2.1 Dial up modems and point to point protocols](#dial-up-modems-and-point-to-point-protocols)
+  - [5.3 Broadband connections](#broadband-connections)
+    - [5.3.1 What is broadband](#what-is-broadband)
+    - [5.3.2 T-carriers technologies](#t-carriers-technologies)
+    - [5.3.3 Digital subscriber lines](#digital-subscriber-lines)
 
 # Introduction to networking
 

@@ -1,38 +1,21 @@
 # Table des matières
-
-[1 Introduction to networking [2](#introduction-to-networking)](#introduction-to-networking)
-
-[1.1 introduction-to-computer-networking [2](#introduction-to-computer-networking)](#introduction-to-computer-networking)
-
-[1.2 the-tcp-ip-five-layer-network-model [4](#the-tcp-ip-five-layer-network-model)](#the-tcp-ip-five-layer-network-model)
-
-[1.2.1 the-tcp-ip-five-layer-network-model [4](#the-tcp-ip-five-layer-network-model-1)](#the-tcp-ip-five-layer-network-model-1)
-
-[1.2.2 alex-why-networking [10](#alex-why-networking)](#alex-why-networking)
-
-[1.3 the-basics-of-networking-devices [10](#the-basics-of-networking-devices)](#the-basics-of-networking-devices)
-
-[1.3.1 Cables [10](#cables)](#cables)
-
-[1.3.2 Hubs and switches [13](#hubs-and-switches)](#hubs-and-switches)
-
-[1.3.3 Routers [15](#routers)](#routers)
-
-[1.3.4 Servers and clients [18](#servers-and-clients)](#servers-and-clients)
-
-[1.4 The physical layer [19](#the-physical-layer)](#the-physical-layer)
-
-[1.4.1 Moving bits across the wire [19](#moving-bits-across-the-wire)](#moving-bits-across-the-wire)
-
-[1.4.2 Twisted pair cabling and duplexing [22](#twisted-pair-cabling-and-duplexing)](#twisted-pair-cabling-and-duplexing)
-
-[1.4.3 Network ports and patch panels [24](#network-ports-and-patch-panels)](#network-ports-and-patch-panels)
-
-[1.5 The data link layer [26](#the-data-link-layer)](#the-data-link-layer)
-
-[1.5.1 Unicast multicast and broadcast [33](#unicast-multicast-and-broadcast)](#unicast-multicast-and-broadcast)
-
-[1.5.2 Dissecting an ethernet frame [35](#dissecting-an-ethernet-frame)](#dissecting-an-ethernet-frame)
+- [1 Introduction to networking](#introduction-to-networking)
+  - [1.1 introduction-to-computer-networking](#introduction-to-computer-networking)
+  - [1.2 the-tcp-ip-five-layer-network-model](#the-tcp-ip-five-layer-network-model)
+    - [1.2.1 the-tcp-ip-five-layer-network-model](#the-tcp-ip-five-layer-network-model-1)
+    - [1.2.2 alex-why-networking](#alex-why-networking)
+  - [1.3 the-basics-of-networking-devices](#the-basics-of-networking-devices)
+    - [1.3.1 Cables](#cables)
+    - [1.3.2 Hubs and switches](#hubs-and-switches)
+    - [1.3.3 Routers](#routers)
+    - [1.3.4 Servers and clients](#servers-and-clients)
+  - [1.4 The physical layer](#the-physical-layer)
+    - [1.4.1 Moving bits across the wire](#moving-bits-across-the-wire)
+    - [1.4.2 Twisted pair cabling and duplexing](#twisted-pair-cabling-and-duplexing)
+    - [1.4.3 Network ports and patch panels](#network-ports-and-patch-panels)
+  - [1.5 The data link layer](#the-data-link-layer)
+    - [1.5.1 Unicast multicast and broadcast](#unicast-multicast-and-broadcast)
+    - [1.5.2 Dissecting an ethernet frame](#dissecting-an-ethernet-frame)
 
 # Introduction to networking
 

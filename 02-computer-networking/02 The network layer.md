@@ -1,32 +1,18 @@
 # Table des matières
-
-[1 Introduction to networking [2](#introduction-to-networking)](#introduction-to-networking)
-
-[2 The network layer [2](#the-network-layer)](#the-network-layer)
-
-[2.1 Introduction to the network layer [2](#introduction-to-the-network-layer)](#introduction-to-the-network-layer)
-
-[2.2 The network layer [2](#the-network-layer-1)](#the-network-layer-1)
-
-[2.2.1 The network layer [2](#the-network-layer-2)](#the-network-layer-2)
-
-[2.2.2 IP adresses [2](#ip-adresses)](#ip-adresses)
-
-[2.2.3 IP datagrams and encapsulation [5](#ip-datagrams-and-encapsulation)](#ip-datagrams-and-encapsulation)
-
-[2.2.4 IP address classes [16](#ip-address-classes)](#ip-address-classes)
-
-[2.2.5 Address resolution protocol [21](#address-resolution-protocol)](#address-resolution-protocol)
-
-[2.3 Subnetting [23](#subnetting)](#subnetting)
-
-[2.3.1 Subnetting [23](#subnetting-1)](#subnetting-1)
-
-[2.3.2 Subnet masks [25](#subnet-masks)](#subnet-masks)
-
-[2.3.3 Basic binary maths [26](#basic-binary-maths)](#basic-binary-maths)
-
-[2.3.4 Cidr [27](#cidr)](#cidr)
+- [1 Introduction to networking](#introduction-to-networking)
+- [2 The network layer](#the-network-layer)
+  - [2.1 Introduction to the network layer](#introduction-to-the-network-layer)
+  - [2.2 The network layer](#the-network-layer-1)
+    - [2.2.1 The network layer](#the-network-layer-2)
+    - [2.2.2 IP adresses](#ip-adresses)
+    - [2.2.3 IP datagrams and encapsulation](#ip-datagrams-and-encapsulation)
+    - [2.2.4 IP address classes](#ip-address-classes)
+    - [2.2.5 Address resolution protocol](#address-resolution-protocol)
+  - [2.3 Subnetting](#subnetting)
+    - [2.3.1 Subnetting](#subnetting-1)
+    - [2.3.2 Subnet masks](#subnet-masks)
+    - [2.3.3 Basic binary maths](#basic-binary-maths)
+    - [2.3.4 Cidr](#cidr)
 
 # Introduction to networking
 

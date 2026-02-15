@@ -1,22 +1,13 @@
 # Table des matières
-
-[1 Introduction to system administration and IT infrastructure services [2](#introduction-to-system-administration-and-it-infrastructure-services)](#introduction-to-system-administration-and-it-infrastructure-services)
-
-[2 Network and infrastructure services [2](#network-and-infrastructure-services)](#network-and-infrastructure-services)
-
-[3 Software and platform services [2](#software-and-platform-services)](#software-and-platform-services)
-
-[4 Directory services [2](#directory-services)](#directory-services)
-
-[5 Data recovery backups [2](#data-recovery-backups)](#data-recovery-backups)
-
-[5.1 Final project [2](#final-project)](#final-project)
-
-[5.1.1 Final project introduction [2](#final-project-introduction)](#final-project-introduction)
-
-[5.1.2 Alex passion success [2](#alex-passion-success)](#alex-passion-success)
-
-[5.2 Course wrap-up [2](#course-wrap-up)](#course-wrap-up)
+- [1 Introduction to system administration and IT infrastructure services](#introduction-to-system-administration-and-it-infrastructure-services)
+- [2 Network and infrastructure services](#network-and-infrastructure-services)
+- [3 Software and platform services](#software-and-platform-services)
+- [4 Directory services](#directory-services)
+- [5 Data recovery backups](#data-recovery-backups)
+  - [5.1 Final project](#final-project)
+    - [5.1.1 Final project introduction](#final-project-introduction)
+    - [5.1.2 Alex passion success](#alex-passion-success)
+  - [5.2 Course wrap-up](#course-wrap-up)
 
 # Introduction to system administration and IT infrastructure services
 

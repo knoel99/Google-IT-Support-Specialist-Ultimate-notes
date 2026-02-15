@@ -1,38 +1,21 @@
 # Table des matières
-
-[1 Introduction to it [2](#introduction-to-it)](#introduction-to-it)
-
-[2 Hardware [2](#hardware)](#hardware)
-
-[3 Operating systems [2](#operating-systems)](#operating-systems)
-
-[4 Networking [2](#networking)](#networking)
-
-[4.1 What is networking [2](#what-is-networking)](#what-is-networking)
-
-[4.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[4.1.2 Basics of networking [2](#basics-of-networking)](#basics-of-networking)
-
-[4.1.3 Networking hardware [11](#networking-hardware)](#networking-hardware)
-
-[4.1.4 Language of the internet [16](#language-of-the-internet)](#language-of-the-internet)
-
-[4.1.5 The web [18](#the-web)](#the-web)
-
-[4.2 Limitations of the internet [22](#limitations-of-the-internet)](#limitations-of-the-internet)
-
-[4.2.1 History of the internet [22](#history-of-the-internet)](#history-of-the-internet)
-
-[4.2.2 The limitations of the internet [25](#the-limitations-of-the-internet)](#the-limitations-of-the-internet)
-
-[4.3 Impact of the internet [28](#impact-of-the-internet)](#impact-of-the-internet)
-
-[4.3.1 Impact [28](#impact)](#impact)
-
-[4.3.2 Internet of things [30](#internet-of-things)](#internet-of-things)
-
-[4.3.3 Privacy and security [30](#privacy-and-security)](#privacy-and-security)
+- [1 Introduction to it](#introduction-to-it)
+- [2 Hardware](#hardware)
+- [3 Operating systems](#operating-systems)
+- [4 Networking](#networking)
+  - [4.1 What is networking](#what-is-networking)
+    - [4.1.1 Module introduction](#module-introduction)
+    - [4.1.2 Basics of networking](#basics-of-networking)
+    - [4.1.3 Networking hardware](#networking-hardware)
+    - [4.1.4 Language of the internet](#language-of-the-internet)
+    - [4.1.5 The web](#the-web)
+  - [4.2 Limitations of the internet](#limitations-of-the-internet)
+    - [4.2.1 History of the internet](#history-of-the-internet)
+    - [4.2.2 The limitations of the internet](#the-limitations-of-the-internet)
+  - [4.3 Impact of the internet](#impact-of-the-internet)
+    - [4.3.1 Impact](#impact)
+    - [4.3.2 Internet of things](#internet-of-things)
+    - [4.3.3 Privacy and security](#privacy-and-security)
 
 # Introduction to it
 

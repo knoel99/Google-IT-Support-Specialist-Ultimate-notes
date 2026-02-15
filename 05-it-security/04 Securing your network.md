@@ -1,40 +1,22 @@
 # Table des matières
-
-[1 Understanding IT security threat [2](#understanding-it-security-threat)](#understanding-it-security-threat)
-
-[2 Pelcgbybtl cryptology [2](#pelcgbybtl-cryptology)](#pelcgbybtl-cryptology)
-
-[3 AAA security not roadside assistance [2](#aaa-security-not-roadside-assistance)](#aaa-security-not-roadside-assistance)
-
-[4 Securing your network [2](#securing-your-network)](#securing-your-network)
-
-[4.1 Secure network architecture [2](#secure-network-architecture)](#secure-network-architecture)
-
-[4.1.1 Network hardening best practices [2](#network-hardening-best-practices)](#network-hardening-best-practices)
-
-[4.1.2 Network hardware hardening [3](#network-hardware-hardening)](#network-hardware-hardening)
-
-[4.1.3 Network software hardening [5](#network-software-hardening)](#network-software-hardening)
-
-[4.1.4 Joe personal obstacle [6](#joe-personal-obstacle)](#joe-personal-obstacle)
-
-[4.2 Wireless security [6](#wireless-security)](#wireless-security)
-
-[4.2.1 Wep encryption and why you shouldn t use it [6](#wep-encryption-and-why-you-shouldn-t-use-it)](#wep-encryption-and-why-you-shouldn-t-use-it)
-
-[4.2.2 Lets get rid of wep wpa wpa2 [7](#lets-get-rid-of-wep-wpa-wpa2)](#lets-get-rid-of-wep-wpa-wpa2)
-
-[4.2.3 Wireless hardening [10](#wireless-hardening)](#wireless-hardening)
-
-[4.2.4 Heather social engineering [10](#heather-social-engineering)](#heather-social-engineering)
-
-[4.3 Network monitoring [11](#network-monitoring)](#network-monitoring)
-
-[4.3.1 Sniffing the network [11](#sniffing-the-network)](#sniffing-the-network)
-
-[4.3.2 Wireshark and tcpdump [12](#wireshark-and-tcpdump)](#wireshark-and-tcpdump)
-
-[4.3.3 Intrusion detection prevention systems [13](#intrusion-detection-prevention-systems)](#intrusion-detection-prevention-systems)
+- [1 Understanding IT security threat](#understanding-it-security-threat)
+- [2 Pelcgbybtl cryptology](#pelcgbybtl-cryptology)
+- [3 AAA security not roadside assistance](#aaa-security-not-roadside-assistance)
+- [4 Securing your network](#securing-your-network)
+  - [4.1 Secure network architecture](#secure-network-architecture)
+    - [4.1.1 Network hardening best practices](#network-hardening-best-practices)
+    - [4.1.2 Network hardware hardening](#network-hardware-hardening)
+    - [4.1.3 Network software hardening](#network-software-hardening)
+    - [4.1.4 Joe personal obstacle](#joe-personal-obstacle)
+  - [4.2 Wireless security](#wireless-security)
+    - [4.2.1 Wep encryption and why you shouldn t use it](#wep-encryption-and-why-you-shouldn-t-use-it)
+    - [4.2.2 Lets get rid of wep wpa wpa2](#lets-get-rid-of-wep-wpa-wpa2)
+    - [4.2.3 Wireless hardening](#wireless-hardening)
+    - [4.2.4 Heather social engineering](#heather-social-engineering)
+  - [4.3 Network monitoring](#network-monitoring)
+    - [4.3.1 Sniffing the network](#sniffing-the-network)
+    - [4.3.2 Wireshark and tcpdump](#wireshark-and-tcpdump)
+    - [4.3.3 Intrusion detection prevention systems](#intrusion-detection-prevention-systems)
 
 # Understanding IT security threat
 

@@ -1,66 +1,35 @@
 # Table des matières
-
-[1 Introduction to system administration and IT infrastructure services [3](#introduction-to-system-administration-and-it-infrastructure-services)](#introduction-to-system-administration-and-it-infrastructure-services)
-
-[2 Network and infrastructure services [3](#network-and-infrastructure-services)](#network-and-infrastructure-services)
-
-[2.1 Intro to IT infrastructure services [3](#intro-to-it-infrastructure-services)](#intro-to-it-infrastructure-services)
-
-[2.1.1 What are IT infrastructure services [3](#what-are-it-infrastructure-services)](#what-are-it-infrastructure-services)
-
-[2.1.2 The role of it infrastructure services in sysadmin [3](#the-role-of-it-infrastructure-services-in-sysadmin)](#the-role-of-it-infrastructure-services-in-sysadmin)
-
-[2.1.3 Types of it infrastructure services [3](#types-of-it-infrastructure-services)](#types-of-it-infrastructure-services)
-
-[2.1.4 How do qwiklabs work [7](#how-do-qwiklabs-work)](#how-do-qwiklabs-work)
-
-[2.1.5 Heather first tech job [8](#heather-first-tech-job)](#heather-first-tech-job)
-
-[2.2 Physical infrastructure services [9](#physical-infrastructure-services)](#physical-infrastructure-services)
-
-[2.2.1 Server operating systems [9](#server-operating-systems)](#server-operating-systems)
-
-[2.2.2 Virtualization [10](#virtualization)](#virtualization)
-
-[2.2.3 Remote access revisited [12](#remote-access-revisited)](#remote-access-revisited)
-
-[2.3 Network services [14](#network-services)](#network-services)
-
-[2.3.1 FTP, SFTP and TFTP [14](#ftp-sftp-and-tftp)](#ftp-sftp-and-tftp)
-
-[2.3.2 NTP [18](#ntp)](#ntp)
-
-[2.3.3 Network support services revisited [19](#network-support-services-revisited)](#network-support-services-revisited)
-
-[2.3.4 DNS [20](#dns)](#dns)
-
-[2.3.5 DNS for web servers [21](#dns-for-web-servers)](#dns-for-web-servers)
-
-[2.3.6 DNS for internal networks [22](#dns-for-internal-networks)](#dns-for-internal-networks)
-
-[2.3.7 DHCP [24](#dhcp)](#dhcp)
-
-[2.4 Troubleshooting network services [26](#troubleshooting-network-services)](#troubleshooting-network-services)
-
-[2.4.1 Unable to resolve a hostname or domain name [26](#unable-to-resolve-a-hostname-or-domain-name)](#unable-to-resolve-a-hostname-or-domain-name)
-
-[2.5 Managing system services [31](#managing-system-services)](#managing-system-services)
-
-[2.5.1 What do services look like in action [31](#what-do-services-look-like-in-action)](#what-do-services-look-like-in-action)
-
-[2.5.2 Managing services in linux [33](#managing-services-in-linux)](#managing-services-in-linux)
-
-[2.5.3 Managing services in windows [36](#managing-services-in-windows)](#managing-services-in-windows)
-
-[2.5.4 Configuring services in linux [38](#configuring-services-in-linux)](#configuring-services-in-linux)
-
-[2.5.5 Configuring services in windows [43](#configuring-services-in-windows)](#configuring-services-in-windows)
-
-[2.6 Configuring network services [48](#configuring-network-services)](#configuring-network-services)
-
-[2.6.1 Configuring DNS with DNSMASQ [48](#configuring-dns-with-dnsmasq)](#configuring-dns-with-dnsmasq)
-
-[2.6.2 Configuring DHCP with DNSMASQ [53](#configuring-dhcp-with-dnsmasq)](#configuring-dhcp-with-dnsmasq)
+- [1 Introduction to system administration and IT infrastructure services](#introduction-to-system-administration-and-it-infrastructure-services)
+- [2 Network and infrastructure services](#network-and-infrastructure-services)
+  - [2.1 Intro to IT infrastructure services](#intro-to-it-infrastructure-services)
+    - [2.1.1 What are IT infrastructure services](#what-are-it-infrastructure-services)
+    - [2.1.2 The role of it infrastructure services in sysadmin](#the-role-of-it-infrastructure-services-in-sysadmin)
+    - [2.1.3 Types of it infrastructure services](#types-of-it-infrastructure-services)
+    - [2.1.4 How do qwiklabs work](#how-do-qwiklabs-work)
+    - [2.1.5 Heather first tech job](#heather-first-tech-job)
+  - [2.2 Physical infrastructure services](#physical-infrastructure-services)
+    - [2.2.1 Server operating systems](#server-operating-systems)
+    - [2.2.2 Virtualization](#virtualization)
+    - [2.2.3 Remote access revisited](#remote-access-revisited)
+  - [2.3 Network services](#network-services)
+    - [2.3.1 FTP, SFTP and TFTP](#ftp-sftp-and-tftp)
+    - [2.3.2 NTP](#ntp)
+    - [2.3.3 Network support services revisited](#network-support-services-revisited)
+    - [2.3.4 DNS](#dns)
+    - [2.3.5 DNS for web servers](#dns-for-web-servers)
+    - [2.3.6 DNS for internal networks](#dns-for-internal-networks)
+    - [2.3.7 DHCP](#dhcp)
+  - [2.4 Troubleshooting network services](#troubleshooting-network-services)
+    - [2.4.1 Unable to resolve a hostname or domain name](#unable-to-resolve-a-hostname-or-domain-name)
+  - [2.5 Managing system services](#managing-system-services)
+    - [2.5.1 What do services look like in action](#what-do-services-look-like-in-action)
+    - [2.5.2 Managing services in linux](#managing-services-in-linux)
+    - [2.5.3 Managing services in windows](#managing-services-in-windows)
+    - [2.5.4 Configuring services in linux](#configuring-services-in-linux)
+    - [2.5.5 Configuring services in windows](#configuring-services-in-windows)
+  - [2.6 Configuring network services](#configuring-network-services)
+    - [2.6.1 Configuring DNS with DNSMASQ](#configuring-dns-with-dnsmasq)
+    - [2.6.2 Configuring DHCP with DNSMASQ](#configuring-dhcp-with-dnsmasq)
 
 # Introduction to system administration and IT infrastructure services
 

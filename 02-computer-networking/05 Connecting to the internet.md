@@ -1,98 +1,51 @@
 # Table des matières
-
-[1 Introduction to networking [3](#introduction-to-networking)](#introduction-to-networking)
-
-[2 The network layer [3](#the-network-layer)](#the-network-layer)
-
-[3 Transport layer and application layer [3](#transport-layer-and-application-layer)](#transport-layer-and-application-layer)
-
-[4 Networking services [3](#networking-services)](#networking-services)
-
-[5 Connecting to the internet [3](#connecting-to-the-internet)](#connecting-to-the-internet)
-
-[5.1 Introduction to connecting to the internet [3](#introduction-to-connecting-to-the-internet)](#introduction-to-connecting-to-the-internet)
-
-[5.2 Pots and dial up [4](#pots-and-dial-up)](#pots-and-dial-up)
-
-[5.2.1 Dial up modems and point to point protocols [4](#dial-up-modems-and-point-to-point-protocols)](#dial-up-modems-and-point-to-point-protocols)
-
-[5.3 Broadband connections [8](#broadband-connections)](#broadband-connections)
-
-[5.3.1 What is broadband [8](#what-is-broadband)](#what-is-broadband)
-
-[5.3.2 T-carriers technologies [10](#t-carriers-technologies)](#t-carriers-technologies)
-
-[5.3.3 Digital subscriber lines [11](#digital-subscriber-lines)](#digital-subscriber-lines)
-
-[5.3.4 Cable broadband [14](#cable-broadband)](#cable-broadband)
-
-[5.3.5 Fiber connection [18](#fiber-connection)](#fiber-connection)
-
-[5.4 WANS [23](#wans)](#wans)
-
-[5.4.1 Wide area network technologies [23](#wide-area-network-technologies)](#wide-area-network-technologies)
-
-[5.4.2 Points to points VPN [24](#points-to-points-vpn)](#points-to-points-vpn)
-
-[5.5 Wireless networking [25](#wireless-networking)](#wireless-networking)
-
-[5.5.1 Introduction to wireless networking technologies [25](#introduction-to-wireless-networking-technologies)](#introduction-to-wireless-networking-technologies)
-
-[5.5.2 Wireless network configurations [31](#wireless-network-configurations)](#wireless-network-configurations)
-
-[5.5.3 Wireless channels [33](#wireless-channels)](#wireless-channels)
-
-[5.5.4 Wireless security [37](#wireless-security)](#wireless-security)
-
-[5.5.5 Cellular networking [40](#cellular-networking)](#cellular-networking)
-
-[6 Troubleshooting and the future of networking [41](#troubleshooting-and-the-future-of-networking)](#troubleshooting-and-the-future-of-networking)
-
-[6.1 Introduction to troubleshooting and the future of networking [41](#introduction-to-troubleshooting-and-the-future-of-networking)](#introduction-to-troubleshooting-and-the-future-of-networking)
-
-[6.1.1 Introduction to troubleshooting and the future of networking [41](#introduction-to-troubleshooting-and-the-future-of-networking-1)](#introduction-to-troubleshooting-and-the-future-of-networking-1)
-
-[6.2 Verifying connectivity [41](#verifying-connectivity)](#verifying-connectivity)
-
-[6.2.1 Ping internet control message protocol [41](#ping-internet-control-message-protocol)](#ping-internet-control-message-protocol)
-
-[6.2.2 Traceroute [42](#traceroute)](#traceroute)
-
-[6.2.3 Testing port connectivity [43](#testing-port-connectivity)](#testing-port-connectivity)
-
-[6.3 Digging into DNS [43](#digging-into-dns)](#digging-into-dns)
-
-[6.3.1 Name resolution tools [43](#name-resolution-tools)](#name-resolution-tools)
-
-[6.3.2 Public DNS servers [44](#public-dns-servers)](#public-dns-servers)
-
-[6.3.3 DNS registration and expiration [45](#dns-registration-and-expiration)](#dns-registration-and-expiration)
-
-[6.3.4 Host file [45](#host-file)](#host-file)
-
-[6.4 The cloud [46](#the-cloud)](#the-cloud)
-
-[6.4.1 What is the cloud [46](#what-is-the-cloud)](#what-is-the-cloud)
-
-[6.4.2 Everything as a service [47](#everything-as-a-service)](#everything-as-a-service)
-
-[6.4.3 Cloud storage [47](#cloud-storage)](#cloud-storage)
-
-[6.5 IPV6 [48](#ipv6)](#ipv6)
-
-[6.5.1 IPV6 addressing and subnetting [48](#ipv6-addressing-and-subnetting)](#ipv6-addressing-and-subnetting)
-
-[6.5.2 IPV6 headers [49](#ipv6-headers)](#ipv6-headers)
-
-[6.5.3 IPV6 and IPV4 harmony [49](#ipv6-and-ipv4-harmony)](#ipv6-and-ipv4-harmony)
-
-[7 Course wrap-up [50](#course-wrap-up)](#course-wrap-up)
-
-[7.1 Course wrap-up [50](#course-wrap-up-1)](#course-wrap-up-1)
-
-[7.2 Alex career path [50](#alex-career-path)](#alex-career-path)
-
-[7.3 Congratulations [51](#congratulations)](#congratulations)
+- [1 Introduction to networking](#introduction-to-networking)
+- [2 The network layer](#the-network-layer)
+- [3 Transport layer and application layer](#transport-layer-and-application-layer)
+- [4 Networking services](#networking-services)
+- [5 Connecting to the internet](#connecting-to-the-internet)
+  - [5.1 Introduction to connecting to the internet](#introduction-to-connecting-to-the-internet)
+  - [5.2 Pots and dial up](#pots-and-dial-up)
+    - [5.2.1 Dial up modems and point to point protocols](#dial-up-modems-and-point-to-point-protocols)
+  - [5.3 Broadband connections](#broadband-connections)
+    - [5.3.1 What is broadband](#what-is-broadband)
+    - [5.3.2 T-carriers technologies](#t-carriers-technologies)
+    - [5.3.3 Digital subscriber lines](#digital-subscriber-lines)
+    - [5.3.4 Cable broadband](#cable-broadband)
+    - [5.3.5 Fiber connection](#fiber-connection)
+  - [5.4 WANS](#wans)
+    - [5.4.1 Wide area network technologies](#wide-area-network-technologies)
+    - [5.4.2 Points to points VPN](#points-to-points-vpn)
+  - [5.5 Wireless networking](#wireless-networking)
+    - [5.5.1 Introduction to wireless networking technologies](#introduction-to-wireless-networking-technologies)
+    - [5.5.2 Wireless network configurations](#wireless-network-configurations)
+    - [5.5.3 Wireless channels](#wireless-channels)
+    - [5.5.4 Wireless security](#wireless-security)
+    - [5.5.5 Cellular networking](#cellular-networking)
+- [6 Troubleshooting and the future of networking](#troubleshooting-and-the-future-of-networking)
+  - [6.1 Introduction to troubleshooting and the future of networking](#introduction-to-troubleshooting-and-the-future-of-networking)
+    - [6.1.1 Introduction to troubleshooting and the future of networking](#introduction-to-troubleshooting-and-the-future-of-networking-1)
+  - [6.2 Verifying connectivity](#verifying-connectivity)
+    - [6.2.1 Ping internet control message protocol](#ping-internet-control-message-protocol)
+    - [6.2.2 Traceroute](#traceroute)
+    - [6.2.3 Testing port connectivity](#testing-port-connectivity)
+  - [6.3 Digging into DNS](#digging-into-dns)
+    - [6.3.1 Name resolution tools](#name-resolution-tools)
+    - [6.3.2 Public DNS servers](#public-dns-servers)
+    - [6.3.3 DNS registration and expiration](#dns-registration-and-expiration)
+    - [6.3.4 Host file](#host-file)
+  - [6.4 The cloud](#the-cloud)
+    - [6.4.1 What is the cloud](#what-is-the-cloud)
+    - [6.4.2 Everything as a service](#everything-as-a-service)
+    - [6.4.3 Cloud storage](#cloud-storage)
+  - [6.5 IPV6](#ipv6)
+    - [6.5.1 IPV6 addressing and subnetting](#ipv6-addressing-and-subnetting)
+    - [6.5.2 IPV6 headers](#ipv6-headers)
+    - [6.5.3 IPV6 and IPV4 harmony](#ipv6-and-ipv4-harmony)
+- [7 Course wrap-up](#course-wrap-up)
+  - [7.1 Course wrap-up](#course-wrap-up-1)
+  - [7.2 Alex career path](#alex-career-path)
+  - [7.3 Congratulations](#congratulations)
 
 # Introduction to networking
 

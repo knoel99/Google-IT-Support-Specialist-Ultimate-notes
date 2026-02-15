@@ -1,44 +1,24 @@
 # Table des matières
-
-[1 Understanding IT security threat [2](#understanding-it-security-threat)](#understanding-it-security-threat)
-
-[2 Pelcgbybtl cryptology [2](#pelcgbybtl-cryptology)](#pelcgbybtl-cryptology)
-
-[3 AAA security not roadside assistance [2](#aaa-security-not-roadside-assistance)](#aaa-security-not-roadside-assistance)
-
-[4 Securing your network [2](#securing-your-network)](#securing-your-network)
-
-[5 Defense in depth [2](#defense-in-depth)](#defense-in-depth)
-
-[5.1 System hardening [2](#system-hardening)](#system-hardening)
-
-[5.1.1 Intro to defense in depth [2](#intro-to-defense-in-depth)](#intro-to-defense-in-depth)
-
-[5.1.2 Disabling unnecessary components [2](#disabling-unnecessary-components)](#disabling-unnecessary-components)
-
-[5.1.3 Host based firewall [3](#host-based-firewall)](#host-based-firewall)
-
-[5.1.4 Logging and auditing [4](#logging-and-auditing)](#logging-and-auditing)
-
-[5.1.5 Antimalware protection [5](#antimalware-protection)](#antimalware-protection)
-
-[5.1.6 Disk encryption [6](#disk-encryption)](#disk-encryption)
-
-[5.1.7 Heather self learning [8](#heather-self-learning)](#heather-self-learning)
-
-[5.2 Application hardening [8](#application-hardening)](#application-hardening)
-
-[5.2.1 Software patch management [8](#software-patch-management)](#software-patch-management)
-
-[5.2.2 Application policies [9](#application-policies)](#application-policies)
-
-[5.3 Case study the security model of chrome os [10](#case-study-the-security-model-of-chrome-os)](#case-study-the-security-model-of-chrome-os)
-
-[5.3.1 The security principles of chrome os [10](#the-security-principles-of-chrome-os)](#the-security-principles-of-chrome-os)
-
-[5.3.2 Chrome os verified boot [11](#chrome-os-verified-boot)](#chrome-os-verified-boot)
-
-[5.3.3 Chrome os data encryption [11](#chrome-os-data-encryption)](#chrome-os-data-encryption)
+- [1 Understanding IT security threat](#understanding-it-security-threat)
+- [2 Pelcgbybtl cryptology](#pelcgbybtl-cryptology)
+- [3 AAA security not roadside assistance](#aaa-security-not-roadside-assistance)
+- [4 Securing your network](#securing-your-network)
+- [5 Defense in depth](#defense-in-depth)
+  - [5.1 System hardening](#system-hardening)
+    - [5.1.1 Intro to defense in depth](#intro-to-defense-in-depth)
+    - [5.1.2 Disabling unnecessary components](#disabling-unnecessary-components)
+    - [5.1.3 Host based firewall](#host-based-firewall)
+    - [5.1.4 Logging and auditing](#logging-and-auditing)
+    - [5.1.5 Antimalware protection](#antimalware-protection)
+    - [5.1.6 Disk encryption](#disk-encryption)
+    - [5.1.7 Heather self learning](#heather-self-learning)
+  - [5.2 Application hardening](#application-hardening)
+    - [5.2.1 Software patch management](#software-patch-management)
+    - [5.2.2 Application policies](#application-policies)
+  - [5.3 Case study the security model of chrome os](#case-study-the-security-model-of-chrome-os)
+    - [5.3.1 The security principles of chrome os](#the-security-principles-of-chrome-os)
+    - [5.3.2 Chrome os verified boot](#chrome-os-verified-boot)
+    - [5.3.3 Chrome os data encryption](#chrome-os-data-encryption)
 
 # Understanding IT security threat
 

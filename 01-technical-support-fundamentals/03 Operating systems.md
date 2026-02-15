@@ -1,42 +1,23 @@
 # Table des matières
-
-[1 Introduction to it [2](#introduction-to-it)](#introduction-to-it)
-
-[2 Hardware [2](#hardware)](#hardware)
-
-[3 Operating systems [2](#operating-systems)](#operating-systems)
-
-[3.1 What’s an operating system [2](#whats-an-operating-system)](#whats-an-operating-system)
-
-[3.1.1 Components of an operating system [2](#components-of-an-operating-system)](#components-of-an-operating-system)
-
-[3.1.2 Files and file system [9](#files-and-file-system)](#files-and-file-system)
-
-[3.1.3 Process management [13](#process-management)](#process-management)
-
-[3.1.4 Memory management [15](#memory-management)](#memory-management)
-
-[3.1.5 I/O management [17](#io-management)](#io-management)
-
-[3.1.6 Interacting with the OS user space [19](#interacting-with-the-os-user-space)](#interacting-with-the-os-user-space)
-
-[3.1.7 Logs [24](#logs)](#logs)
-
-[3.1.8 Boot [25](#boot)](#boot)
-
-[3.2 Installing an operating system [29](#installing-an-operating-system)](#installing-an-operating-system)
-
-[3.2.1 Choosing an operating system [29](#choosing-an-operating-system)](#choosing-an-operating-system)
-
-[3.2.2 Virtual machines [31](#virtual-machines)](#virtual-machines)
-
-[3.2.3 Installing windows [32](#installing-windows)](#installing-windows)
-
-[3.2.4 Installing Linux [36](#installing-linux)](#installing-linux)
-
-[3.2.5 What is Chrome OS [41](#what-is-chrome-os)](#what-is-chrome-os)
-
-[3.2.6 Installing macOS X [44](#installing-macos-x)](#installing-macos-x)
+- [1 Introduction to it](#introduction-to-it)
+- [2 Hardware](#hardware)
+- [3 Operating systems](#operating-systems)
+  - [3.1 What’s an operating system](#whats-an-operating-system)
+    - [3.1.1 Components of an operating system](#components-of-an-operating-system)
+    - [3.1.2 Files and file system](#files-and-file-system)
+    - [3.1.3 Process management](#process-management)
+    - [3.1.4 Memory management](#memory-management)
+    - [3.1.5 I/O management](#io-management)
+    - [3.1.6 Interacting with the OS user space](#interacting-with-the-os-user-space)
+    - [3.1.7 Logs](#logs)
+    - [3.1.8 Boot](#boot)
+  - [3.2 Installing an operating system](#installing-an-operating-system)
+    - [3.2.1 Choosing an operating system](#choosing-an-operating-system)
+    - [3.2.2 Virtual machines](#virtual-machines)
+    - [3.2.3 Installing windows](#installing-windows)
+    - [3.2.4 Installing Linux](#installing-linux)
+    - [3.2.5 What is Chrome OS](#what-is-chrome-os)
+    - [3.2.6 Installing macOS X](#installing-macos-x)
 
 # Introduction to it
 

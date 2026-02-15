@@ -1,42 +1,23 @@
 # Table des matières
-
-[1 Navigating the system [2](#navigating-the-system)](#navigating-the-system)
-
-[2 Users and permissions [2](#users-and-permissions)](#users-and-permissions)
-
-[2.1 Users and groups [2](#users-and-groups)](#users-and-groups)
-
-[2.1.1 Users administrators and groups oh my [2](#users-administrators-and-groups-oh-my)](#users-administrators-and-groups-oh-my)
-
-[2.1.2 Windows view user and group information [4](#windows-view-user-and-group-information)](#windows-view-user-and-group-information)
-
-[2.1.3 Windows view user and group information using CLI [9](#windows-view-user-and-group-information-using-cli)](#windows-view-user-and-group-information-using-cli)
-
-[2.1.4 Linux users superuser and beyond [10](#linux-users-superuser-and-beyond)](#linux-users-superuser-and-beyond)
-
-[2.1.5 Windows passwords [16](#windows-passwords)](#windows-passwords)
-
-[2.1.6 Linux passwords [19](#linux-passwords)](#linux-passwords)
-
-[2.1.7 Windows adding and removing users [20](#windows-adding-and-removing-users)](#windows-adding-and-removing-users)
-
-[2.1.8 Linux adding and removing users [24](#linux-adding-and-removing-users)](#linux-adding-and-removing-users)
-
-[2.1.9 Ben life as a cio [25](#ben-life-as-a-cio)](#ben-life-as-a-cio)
-
-[2.2 Permissions [25](#permissions)](#permissions)
-
-[2.2.1 Windows file permissions [25](#windows-file-permissions)](#windows-file-permissions)
-
-[2.2.2 Linux file permissions [31](#linux-file-permissions)](#linux-file-permissions)
-
-[2.2.3 Windows modifying permissions [34](#windows-modifying-permissions)](#windows-modifying-permissions)
-
-[2.2.4 Linux modifying permissions [38](#linux-modifying-permissions)](#linux-modifying-permissions)
-
-[2.2.5 Windows special permissions [41](#windows-special-permissions)](#windows-special-permissions)
-
-[2.2.6 Linux setuid setgid sticky bit [45](#linux-setuid-setgid-sticky-bit)](#linux-setuid-setgid-sticky-bit)
+- [1 Navigating the system](#navigating-the-system)
+- [2 Users and permissions](#users-and-permissions)
+  - [2.1 Users and groups](#users-and-groups)
+    - [2.1.1 Users administrators and groups oh my](#users-administrators-and-groups-oh-my)
+    - [2.1.2 Windows view user and group information](#windows-view-user-and-group-information)
+    - [2.1.3 Windows view user and group information using CLI](#windows-view-user-and-group-information-using-cli)
+    - [2.1.4 Linux users superuser and beyond](#linux-users-superuser-and-beyond)
+    - [2.1.5 Windows passwords](#windows-passwords)
+    - [2.1.6 Linux passwords](#linux-passwords)
+    - [2.1.7 Windows adding and removing users](#windows-adding-and-removing-users)
+    - [2.1.8 Linux adding and removing users](#linux-adding-and-removing-users)
+    - [2.1.9 Ben life as a cio](#ben-life-as-a-cio)
+  - [2.2 Permissions](#permissions)
+    - [2.2.1 Windows file permissions](#windows-file-permissions)
+    - [2.2.2 Linux file permissions](#linux-file-permissions)
+    - [2.2.3 Windows modifying permissions](#windows-modifying-permissions)
+    - [2.2.4 Linux modifying permissions](#linux-modifying-permissions)
+    - [2.2.5 Windows special permissions](#windows-special-permissions)
+    - [2.2.6 Linux setuid setgid sticky bit](#linux-setuid-setgid-sticky-bit)
 
 # Navigating the system
 

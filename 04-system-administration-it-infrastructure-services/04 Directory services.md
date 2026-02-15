@@ -1,52 +1,28 @@
 # Table des matières
-
-[1 Introduction to system administration and IT infrastructure services [2](#introduction-to-system-administration-and-it-infrastructure-services)](#introduction-to-system-administration-and-it-infrastructure-services)
-
-[2 Network and infrastructure services [2](#network-and-infrastructure-services)](#network-and-infrastructure-services)
-
-[3 Software and platform services [2](#software-and-platform-services)](#software-and-platform-services)
-
-[3.1 Software services [2](#_Toc14159749)](#_Toc14159749)
-
-[3.1.1 Module introduction [2](#_Toc14159750)](#_Toc14159750)
-
-[3.1.2 Configuring communication services [2](#_Toc14159751)](#_Toc14159751)
-
-[3.1.3 Configuring email services [2](#_Toc14159752)](#_Toc14159752)
-
-[3.1.4 Configuring user productivity services [3](#_Toc14159753)](#_Toc14159753)
-
-[3.1.5 Configuring security services [4](#_Toc14159754)](#_Toc14159754)
-
-[3.1.6 Heather managing self doubt [4](#_Toc14159755)](#_Toc14159755)
-
-[3.2 File services [5](#_Toc14159756)](#_Toc14159756)
-
-[3.2.1 What are file services [5](#_Toc14159757)](#_Toc14159757)
-
-[3.2.2 Network file storage [5](#_Toc14159758)](#_Toc14159758)
-
-[3.3 Print services [6](#_Toc14159759)](#_Toc14159759)
-
-[3.3.1 Configuring print services [6](#_Toc14159760)](#_Toc14159760)
-
-[3.4 Platform services [6](#_Toc14159761)](#_Toc14159761)
-
-[3.4.1 Web servers revisited [6](#_Toc14159762)](#_Toc14159762)
-
-[3.4.2 What is a database server [7](#_Toc14159763)](#_Toc14159763)
-
-[3.5 Troubleshooting platform services [7](#_Toc14159764)](#_Toc14159764)
-
-[3.5.1 Is the website down [7](#_Toc14159765)](#_Toc14159765)
-
-[3.6 Managing cloud resources [8](#_Toc14159766)](#_Toc14159766)
-
-[3.6.1 Cloud concepts [8](#_Toc14159767)](#_Toc14159767)
-
-[3.6.2 Typical cloud infrastructure setups [9](#_Toc14159768)](#_Toc14159768)
-
-[3.6.3 When and how to choose cloud [9](#_Toc14159769)](#_Toc14159769)
+- [1 Introduction to system administration and IT infrastructure services](#introduction-to-system-administration-and-it-infrastructure-services)
+- [2 Network and infrastructure services](#network-and-infrastructure-services)
+- [3 Software and platform services](#software-and-platform-services)
+  - [3.1 Software services](#_Toc14159749)
+    - [3.1.1 Module introduction](#_Toc14159750)
+    - [3.1.2 Configuring communication services](#_Toc14159751)
+    - [3.1.3 Configuring email services](#_Toc14159752)
+    - [3.1.4 Configuring user productivity services](#_Toc14159753)
+    - [3.1.5 Configuring security services](#_Toc14159754)
+    - [3.1.6 Heather managing self doubt](#_Toc14159755)
+  - [3.2 File services](#_Toc14159756)
+    - [3.2.1 What are file services](#_Toc14159757)
+    - [3.2.2 Network file storage](#_Toc14159758)
+  - [3.3 Print services](#_Toc14159759)
+    - [3.3.1 Configuring print services](#_Toc14159760)
+  - [3.4 Platform services](#_Toc14159761)
+    - [3.4.1 Web servers revisited](#_Toc14159762)
+    - [3.4.2 What is a database server](#_Toc14159763)
+  - [3.5 Troubleshooting platform services](#_Toc14159764)
+    - [3.5.1 Is the website down](#_Toc14159765)
+  - [3.6 Managing cloud resources](#_Toc14159766)
+    - [3.6.1 Cloud concepts](#_Toc14159767)
+    - [3.6.2 Typical cloud infrastructure setups](#_Toc14159768)
+    - [3.6.3 When and how to choose cloud](#_Toc14159769)
 
 # Introduction to system administration and IT infrastructure services
 

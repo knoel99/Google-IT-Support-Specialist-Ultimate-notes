@@ -1,36 +1,20 @@
 # Table des matières
-
-[1 Introduction to it [2](#introduction-to-it)](#introduction-to-it)
-
-[2 Hardware [2](#hardware)](#hardware)
-
-[3 Operating systems [2](#operating-systems)](#operating-systems)
-
-[4 Networking [2](#networking)](#networking)
-
-[5 Software [2](#software)](#software)
-
-[5.1 Introduction to software [2](#introduction-to-software)](#introduction-to-software)
-
-[5.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[5.1.2 What is software [2](#what-is-software)](#what-is-software)
-
-[5.1.3 Types of software [3](#types-of-software)](#types-of-software)
-
-[5.1.4 Revisiting abstraction [5](#revisiting-abstraction)](#revisiting-abstraction)
-
-[5.1.5 Recipe for computing [6](#recipe-for-computing)](#recipe-for-computing)
-
-[5.2 Interacting with software [9](#interacting-with-software)](#interacting-with-software)
-
-[5.2.1 Managing software [9](#managing-software)](#managing-software)
-
-[5.2.2 Installing updating and removing software on windows [10](#installing-updating-and-removing-software-on-windows)](#installing-updating-and-removing-software-on-windows)
-
-[5.2.3 Installing updating and removing software on linux [12](#installing-updating-and-removing-software-on-linux)](#installing-updating-and-removing-software-on-linux)
-
-[5.2.4 Software automation [13](#software-automation)](#software-automation)
+- [1 Introduction to it](#introduction-to-it)
+- [2 Hardware](#hardware)
+- [3 Operating systems](#operating-systems)
+- [4 Networking](#networking)
+- [5 Software](#software)
+  - [5.1 Introduction to software](#introduction-to-software)
+    - [5.1.1 Module introduction](#module-introduction)
+    - [5.1.2 What is software](#what-is-software)
+    - [5.1.3 Types of software](#types-of-software)
+    - [5.1.4 Revisiting abstraction](#revisiting-abstraction)
+    - [5.1.5 Recipe for computing](#recipe-for-computing)
+  - [5.2 Interacting with software](#interacting-with-software)
+    - [5.2.1 Managing software](#managing-software)
+    - [5.2.2 Installing updating and removing software on windows](#installing-updating-and-removing-software-on-windows)
+    - [5.2.3 Installing updating and removing software on linux](#installing-updating-and-removing-software-on-linux)
+    - [5.2.4 Software automation](#software-automation)
 
 # Introduction to it
 

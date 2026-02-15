@@ -1,42 +1,23 @@
 # Table des matières
-
-[1 Introduction to system administration and IT infrastructure services [2](#introduction-to-system-administration-and-it-infrastructure-services)](#introduction-to-system-administration-and-it-infrastructure-services)
-
-[2 Network and infrastructure services [2](#network-and-infrastructure-services)](#network-and-infrastructure-services)
-
-[3 Software and platform services [2](#software-and-platform-services)](#software-and-platform-services)
-
-[4 Directory services [2](#directory-services)](#directory-services)
-
-[5 Data recovery backups [2](#data-recovery-backups)](#data-recovery-backups)
-
-[5.1 Planning for data recovery [2](#planning-for-data-recovery)](#planning-for-data-recovery)
-
-[5.1.1 Module introduction [2](#module-introduction)](#module-introduction)
-
-[5.1.2 What is data recovery [2](#what-is-data-recovery)](#what-is-data-recovery)
-
-[5.1.3 Backing up your data [3](#backing-up-your-data)](#backing-up-your-data)
-
-[5.1.4 Backup solutions [3](#backup-solutions)](#backup-solutions)
-
-[5.1.5 Testing backups [4](#testing-backups)](#testing-backups)
-
-[5.1.6 Types of backup [4](#types-of-backup)](#types-of-backup)
-
-[5.1.7 User backups [5](#user-backups)](#user-backups)
-
-[5.2 Disaster recovery plans [6](#disaster-recovery-plans)](#disaster-recovery-plans)
-
-[5.2.1 Whats a disaster recovery plan [6](#whats-a-disaster-recovery-plan)](#whats-a-disaster-recovery-plan)
-
-[5.2.2 Designing a disaster recovery plan [7](#designing-a-disaster-recovery-plan)](#designing-a-disaster-recovery-plan)
-
-[5.3 Post mortems [8](#post-mortems)](#post-mortems)
-
-[5.3.1 Whats a post mortem [8](#whats-a-post-mortem)](#whats-a-post-mortem)
-
-[5.3.2 Writing a post mortem [9](#writing-a-post-mortem)](#writing-a-post-mortem)
+- [1 Introduction to system administration and IT infrastructure services](#introduction-to-system-administration-and-it-infrastructure-services)
+- [2 Network and infrastructure services](#network-and-infrastructure-services)
+- [3 Software and platform services](#software-and-platform-services)
+- [4 Directory services](#directory-services)
+- [5 Data recovery backups](#data-recovery-backups)
+  - [5.1 Planning for data recovery](#planning-for-data-recovery)
+    - [5.1.1 Module introduction](#module-introduction)
+    - [5.1.2 What is data recovery](#what-is-data-recovery)
+    - [5.1.3 Backing up your data](#backing-up-your-data)
+    - [5.1.4 Backup solutions](#backup-solutions)
+    - [5.1.5 Testing backups](#testing-backups)
+    - [5.1.6 Types of backup](#types-of-backup)
+    - [5.1.7 User backups](#user-backups)
+  - [5.2 Disaster recovery plans](#disaster-recovery-plans)
+    - [5.2.1 Whats a disaster recovery plan](#whats-a-disaster-recovery-plan)
+    - [5.2.2 Designing a disaster recovery plan](#designing-a-disaster-recovery-plan)
+  - [5.3 Post mortems](#post-mortems)
+    - [5.3.1 Whats a post mortem](#whats-a-post-mortem)
+    - [5.3.2 Writing a post mortem](#writing-a-post-mortem)
 
 # Introduction to system administration and IT infrastructure services
 

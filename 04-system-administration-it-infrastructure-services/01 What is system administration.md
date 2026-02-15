@@ -1,44 +1,24 @@
 # Table des matières
-
-[1 Introduction to system administration and IT infrastructure services [2](#introduction-to-system-administration-and-it-infrastructure-services)](#introduction-to-system-administration-and-it-infrastructure-services)
-
-[1.1 Course introduction [2](#course-introduction)](#course-introduction)
-
-[1.2 What is system administration [3](#what-is-system-administration)](#what-is-system-administration)
-
-[1.2.1 What is system administration [3](#what-is-system-administration-1)](#what-is-system-administration-1)
-
-[1.2.2 Servers revisited [5](#servers-revisited)](#servers-revisited)
-
-[1.2.3 The cloud [9](#the-cloud)](#the-cloud)
-
-[1.3 System administration tasks [12](#system-administration-tasks)](#system-administration-tasks)
-
-[1.3.1 Organizational policies [12](#organizational-policies)](#organizational-policies)
-
-[1.3.2 IT infrastructure services [14](#it-infrastructure-services)](#it-infrastructure-services)
-
-[1.3.3 User and hardware provisioning [14](#user-and-hardware-provisioning)](#user-and-hardware-provisioning)
-
-[1.3.4 Routine maintenance [16](#routine-maintenance)](#routine-maintenance)
-
-[1.3.5 Vendors [17](#vendors)](#vendors)
-
-[1.3.6 Troubleshooting and managing issues [18](#troubleshooting-and-managing-issues)](#troubleshooting-and-managing-issues)
-
-[1.3.7 In case of fire break glass [20](#in-case-of-fire-break-glass)](#in-case-of-fire-break-glass)
-
-[1.3.8 Dion Michelle Obama story [20](#dion-michelle-obama-story)](#dion-michelle-obama-story)
-
-[1.4 Applying changes [20](#applying-changes)](#applying-changes)
-
-[1.4.1 With great powers comes great responsibilities [20](#with-great-powers-comes-great-responsibilities)](#with-great-powers-comes-great-responsibilities)
-
-[1.4.2 Never test in production [24](#never-test-in-production)](#never-test-in-production)
-
-[1.4.3 Assessing risk [26](#assessing-risk)](#assessing-risk)
-
-[1.4.4 Fixing things the right way [27](#fixing-things-the-right-way)](#fixing-things-the-right-way)
+- [1 Introduction to system administration and IT infrastructure services](#introduction-to-system-administration-and-it-infrastructure-services)
+  - [1.1 Course introduction](#course-introduction)
+  - [1.2 What is system administration](#what-is-system-administration)
+    - [1.2.1 What is system administration](#what-is-system-administration-1)
+    - [1.2.2 Servers revisited](#servers-revisited)
+    - [1.2.3 The cloud](#the-cloud)
+  - [1.3 System administration tasks](#system-administration-tasks)
+    - [1.3.1 Organizational policies](#organizational-policies)
+    - [1.3.2 IT infrastructure services](#it-infrastructure-services)
+    - [1.3.3 User and hardware provisioning](#user-and-hardware-provisioning)
+    - [1.3.4 Routine maintenance](#routine-maintenance)
+    - [1.3.5 Vendors](#vendors)
+    - [1.3.6 Troubleshooting and managing issues](#troubleshooting-and-managing-issues)
+    - [1.3.7 In case of fire break glass](#in-case-of-fire-break-glass)
+    - [1.3.8 Dion Michelle Obama story](#dion-michelle-obama-story)
+  - [1.4 Applying changes](#applying-changes)
+    - [1.4.1 With great powers comes great responsibilities](#with-great-powers-comes-great-responsibilities)
+    - [1.4.2 Never test in production](#never-test-in-production)
+    - [1.4.3 Assessing risk](#assessing-risk)
+    - [1.4.4 Fixing things the right way](#fixing-things-the-right-way)
 
 # Introduction to system administration and IT infrastructure services
 
