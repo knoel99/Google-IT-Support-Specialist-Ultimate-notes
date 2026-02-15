@@ -109,20 +109,23 @@ Warning: you may run this command 10 times until it works. If it fails, wait 5-1
 
 
 For example:
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p technical-support-fundamentals
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p it-security
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p technical-support-fundamentals
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p computer-networking
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p os-power-user
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p system-administration-it-infrastructure-services
-- coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p it-security
+```bash
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p technical-support-fundamentals
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p it-security
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p technical-support-fundamentals
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p computer-networking
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p os-power-user
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p system-administration-it-infrastructure-services
+coursera-dl -u youremail -p yourpassword --subtitle-language en --download-quizzes --download-notebooks --video-resolution 720p it-security
+```
 
 
 Now the course is downloaded in local. 
 You can do it even during the trial period ;)
 Here are all the options of the command:
 
-`coursera-dl [-h] [-u USERNAME] [-p PASSWORD] [--jobs JOBS]
+```
+coursera-dl [-h] [-u USERNAME] [-p PASSWORD] [--jobs JOBS]
                    [--download-delay DOWNLOAD_DELAY] [-b] [--path PATH]
                    [-sl SUBTITLE_LANGUAGE] [--specialization]
                    [--only-syllabus] [--download-quizzes]
@@ -139,5 +142,6 @@ Here are all the options of the command:
                    [-k] [--clear-cache] [--hook HOOKS] [-pl]
                    [--mathjax-cdn MATHJAX_CDN_URL] [--skip-download] [--debug]
                    [--cache-syllabus] [--version] [-l LOCAL_PAGE]
-                   [class_names [class_names ...]]`
+                   [class_names [class_names ...]]
+```
                    
